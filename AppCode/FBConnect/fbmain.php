@@ -7,7 +7,7 @@
         include_once "facebook.php";
     }
     catch(Exception $o){
-        echo 'ibraheem';
+        echo ' ';
         echo '<pre>';
         print_r($o);
         echo '</pre>';
