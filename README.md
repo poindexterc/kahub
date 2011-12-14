@@ -10,8 +10,6 @@ kahub was a project which allowed you to share news with your friends by just hi
 
 **Colin Poindexter** (cpopensource [at] gmail.com) for The tldr Project (www.tldrproject.com)
 
-**Ian Barber** (where the real heavy lifting for this came). Check out his blog here: http://www.phpir.com/
-
 **Chuck Testa** http://www.youtube.com/watch?v=mbUVtfUWwF8
 
 ---
