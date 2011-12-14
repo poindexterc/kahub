@@ -8,7 +8,7 @@ kahub was a project which allowed you to share news with your friends by just hi
 ---
 **AUTHORS**  
 
-**Colin Poindexter** (cpopensource [at] gmail.com) for The tldr Project (www.tldrproject.com)
+**Colin Poindexter** (cpopensource [at] gmail.com)
 
 **Chuck Testa** http://www.youtube.com/watch?v=mbUVtfUWwF8
 
@@ -24,7 +24,7 @@ You must have PHP 5.2.0 or newer running on your server.
 
 ---
 **LICENSE**  
-Copyright 2011 The tldr Project c/o ipsumedia Limited. 
+Copyright 2011 ipsumedia Limited. 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
