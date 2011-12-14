@@ -1,7 +1,7 @@
 <?php
-	$fbconfig['appid' ]  = "146470212065341";
-	$fbconfig['api'   ]  = "212dcc92fc9aba19273b83a3f250157e";
-	$fbconfig['secret']  = "31ec0b903044d95e4d0f2e0f0d3552fa";
+	$fbconfig['appid' ]  = "YOUR_APP_ID";
+	$fbconfig['api'   ]  = "API_KEY";
+	$fbconfig['secret']  = "SECRET";
 
     try{
         include_once "facebook.php";
