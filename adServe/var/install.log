@@ -1,0 +1,23 @@
+Installation started 2011-07-30 18:45:48
+Attempting to connect to database admin7_ads with user root
+Database created admin7_ads
+Connected to database admin7_ads
+Database settings and permissions are OK
+creating upgrade_action audit table
+successfully created upgrade_action audit table
+creating database_action audit table
+successfully created database_action audit table
+schema definition from cache TRUE
+Installation created the core tables
+Installation updated the schema version to 613
+Installation updated the application version to 2.8.7
+Preparing to set timezone preference...
+Found timezone preference ID of 16
+Found the admin account's timezone association, updating preference...
+Updated the admin account timezone preference to: 'UTC'
+Starting file-check for plugins...
+Finished file-check for plugins
+Starting file-check for plugins...
+Finished file-check for plugins
+Starting file-check for plugins...
+Finished file-check for plugins

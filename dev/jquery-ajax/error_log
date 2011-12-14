@@ -1,0 +1,2 @@
+[11-Feb-2011 13:11:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/admin5/public_html/dev/jquery-ajax/base.php on line 9
+[11-Mar-2011 18:08:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/admin5/public_html/dev/jquery-ajax/base.php on line 9

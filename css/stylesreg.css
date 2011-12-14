@@ -1,0 +1,185 @@
+span.step {
+	font-weight: normal;
+	font-size: 24px;
+	color: #404040;
+}
+
+p.pt-8 {
+	padding: 0;
+	color: #424242;
+}
+
+h4.select-profile {
+	padding-top: 0;
+}
+
+div.stepbody {
+	padding: 10px;
+	width: 724px;
+	background-color: #FFF;
+	border-style: solid;
+	border-color: #C0311A;
+	border-top-width: 3px;
+	border-right-width: 0;
+	border-bottom-width: 0;
+	border-left-width: 0;
+	margin-top: 20px;
+}
+
+p.pt-20.pb-20 {
+	padding-top: 0;
+	margin-top: 0;
+	width: 0;
+	height: 0;
+}
+
+div.frame {
+	font-size: 15px;
+	font-family: 'AvenirLTStd55Roman';
+	font-weight: normal;
+}
+
+span.choice {
+	font-size: 13px;
+	text-align: center;
+	border-style: solid;
+	border-color: #dbdbdb;
+	border-top-width: 1px;
+	width: 750px;
+}
+
+div.choice {
+	border-style: solid;
+	border-color: #e0e0e0;
+	border-top-width: 1px;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+div.pure {
+	font-family: 'AvenirLTStd55Roman';
+	font-weight: normal;
+	font-size: 15px;
+}
+
+#div-browser {
+	font-family: 'AvenirLTStd55Roman';
+	font-weight: normal;
+}
+
+#div-browser h2 {
+	font-weight: normal;
+	text-align: center;
+	font-size: 14pt;
+	font-family: 'AvenirLTStd85Heavy';
+}
+
+div.reg1-main {
+	margin-bottom: 50px;
+}
+
+div.ease {
+	margin-top: 10px;
+	font-size: 17px;
+}
+
+span.hidden a img {
+	margin-top: 10px;
+}
+
+div.privacy-concern a {
+	color: #405882;
+	text-decoration: none;
+}
+
+span.stepno {
+	color: #b3b3b3;
+	font-family: 'AvenirLTStd35Light';
+	font-weight: normal;
+}
+
+input.reg3-submit {
+	margin-top: 20px;
+}
+
+input.reg-submit {
+	float: right;
+	margin-top: 10px;
+}
+
+input.reg-save {
+	margin-top: 10px;
+}
+
+p.pt-20 {
+	font-size: 14px;
+	padding-top: 2px;
+}
+
+div.footer {
+	margin-top: 50px;
+}
+div.main {
+	margin-bottom: 50px;
+}
+
+input.reg3-submit {
+	width: 230px;
+	font-size: 18px;
+	margin-right: 80px;
+	text-decoration: none;
+}
+
+input.reg3-submit:hover {
+	text-decoration: none;
+}
+
+input.reg-submit.pic {
+	margin-top: 30px;
+	margin-right: 10px;
+	font-size: 18px;
+}
+
+input.reg-save.pic {
+	margin-top: 30px;
+	font-size: 18px;
+}
+
+input.reg-submit {
+	font-size: 18px;
+}
+
+input.reg-save {
+	font-size: 18px;
+}
+
+div.pure {
+	font-size: 14px;
+}
+
+div.ease {
+	font-size: 15px;
+}
+
+p.pt-8 {
+	margin-top: 13px;
+}
+
+div.frame {
+	font-size: 15px;
+}
+
+#div-browser h2 {
+	margin-top: -20px;
+	margin-bottom: 10px;
+	color: #595959;
+}
+
+div.privacy-concern {
+	color: #303030;
+}
+
+p.pt-8 i {
+	font-size: 15px;
+}
+

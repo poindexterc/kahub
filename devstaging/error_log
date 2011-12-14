@@ -1,0 +1,562 @@
+[22-Oct-2010 14:36:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/incomplete_profile_landing_page.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 14:40:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/incomplete_profile_landing_page.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 14:46:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/incomplete_profile_landing_page.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 14:50:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/incomplete_profile_landing_page.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 14:50:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/incomplete_profile_landing_page.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 14:53:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/incomplete_profile_landing_page.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 14:56:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/incomplete_profile_landing_page.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 14:59:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/incomplete_profile_landing_page.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 15:01:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/incomplete_profile_landing_page.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 15:02:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/incomplete_profile_landing_page.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 15:16:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/index.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 15:20:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/index.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 15:29:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/index.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 15:36:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/index.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 15:46:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/index.php:19) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[22-Oct-2010 17:36:23] PHP Warning:  POST Content-Length of 10982834 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Oct-2010 11:02:47] PHP Warning:  POST Content-Length of 10982834 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Oct-2010 11:28:33] PHP Parse error:  syntax error, unexpected '(' in /home/admin5/public_html/AppCode/access.class.php on line 68
+[13-Nov-2010 00:10:29] PHP Warning:  POST Content-Length of 10982834 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2010 13:21:39] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingMethods.php on line 91
+[10-Jan-2011 15:15:38] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/removeFriendsHandler.php on line 70
+[10-Jan-2011 15:46:04] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/admin5/public_html/member/index.php on line 51
+[10-Jan-2011 15:46:21] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/index.php on line 51
+[10-Jan-2011 15:46:44] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/admin5/public_html/member/index.php on line 60
+[10-Jan-2011 18:11:16] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/admin5/public_html/member/Registration.php on line 214
+[10-Jan-2011 18:12:20] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/Registration.php on line 617
+[10-Jan-2011 18:13:04] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/admin5/public_html/member/Registration.php on line 618
+[10-Jan-2011 18:17:09] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/Registration.php on line 620
+[10-Jan-2011 18:18:15] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/Registration.php on line 620
+[10-Jan-2011 18:18:25] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/Registration.php on line 619
+[10-Jan-2011 18:18:32] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/admin5/public_html/member/Registration.php on line 619
+[10-Jan-2011 18:19:05] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/admin5/public_html/member/Registration.php on line 618
+[10-Jan-2011 18:19:51] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/admin5/public_html/member/Registration.php on line 262
+[12-Jan-2011 15:23:57] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[12-Jan-2011 15:24:00] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[12-Jan-2011 15:24:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[12-Jan-2011 15:24:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[12-Jan-2011 15:24:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[13-Jan-2011 13:06:13] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/AppCode/SideBarScript.php on line 76
+[13-Jan-2011 13:32:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/FBConnect/fbmain.php:45) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[13-Jan-2011 13:34:19] PHP Fatal error:  Uncaught CurlException: 28: SSL connection timeout
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[13-Jan-2011 13:34:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/admin5/public_html/AppCode/FBConnect/fbmain.php:45) in /home/admin5/public_html/AppCode/access.class.php on line 121
+[13-Jan-2011 13:37:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/admin5/public_html/AppCode/FBConnect/fbmain.php:45) in /home/admin5/public_html/AppCode/access.class.php on line 121
+[13-Jan-2011 14:00:06] PHP Fatal error:  Class 'SideBar' not found in /home/admin5/public_html/member/index.php on line 164
+[13-Jan-2011 14:21:33] PHP Fatal error:  Uncaught CurlException: 7: couldn't connect to host
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[13-Jan-2011 23:08:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 388
+[14-Jan-2011 14:44:21] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/AppCode/HelpingMethods.php on line 147
+[14-Jan-2011 14:44:48] PHP Fatal error:  Call to undefined method HelpingMethods::get_data_big() in /home/admin5/public_html/AppCode/HelpingMethods.php on line 88
+[14-Jan-2011 15:27:15] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:27:22] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:27:46] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:28:37] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:28:44] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:29:27] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:30:01] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:30:31] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:31:01] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:32:22] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:32:46] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:33:17] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:33:31] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:33:47] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:34:36] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:35:00] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:36:46] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:38:11] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:38:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:41:33] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:00] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:19] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:19] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:19] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:19] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:19] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:19] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:19] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:19] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:20] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:20] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:23] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:23] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:23] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:23] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:23] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:23] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:23] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:23] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:23] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:23] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:25] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:25] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:25] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:25] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:25] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:25] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:25] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:25] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:46:25] PHP Warning:  file_get_contents(xml.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:46:25] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 15:47:30] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 742
+[14-Jan-2011 15:54:02] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 741
+[14-Jan-2011 15:54:03] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 741
+[14-Jan-2011 15:54:04] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 741
+[14-Jan-2011 15:54:04] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 741
+[14-Jan-2011 15:54:05] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 741
+[14-Jan-2011 15:54:09] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 741
+[14-Jan-2011 15:54:10] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 741
+[14-Jan-2011 15:54:11] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 741
+[14-Jan-2011 15:54:11] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 741
+[14-Jan-2011 15:54:12] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 741
+[14-Jan-2011 16:04:02] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:04] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:05] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:05] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:05] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:09] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:09] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:10] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:10] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:10] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:48] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:49] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:49] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:49] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:52] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:55] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:55] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:55] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:56] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:04:56] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:01] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:03] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:54] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:54] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:55] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:55] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:56] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:59] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:59] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:05:59] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:06:00] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:06:00] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:06:05] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:06:05] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:06:05] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:06:06] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:06:06] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:29] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:29] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:29] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:30] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:30] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:33] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:34] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:34] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:37] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:38] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:42] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:43] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:43] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:43] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:07:44] PHP Warning:  Invalid argument supplied for foreach() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 744
+[14-Jan-2011 16:23:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:23:41] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Windows Phone 7 limits push notifications to 15 apps, 16th app is out of luck -- Engadget Mobile) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:23:42] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Inhabitat's Week in Green: modernizing the US national grid, not to mention deserts and pyramids -- Engadget) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:23:42] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Lee Westwood passes Tiger Woods for world golf No. 1 - ESPN) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:23:42] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Sony Ericsson faults 'especially rigorous' firmware testing in US for X10's Eclair update delay on AT&amp;T -- Engadget) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:23:42] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='SlingPlayer Mobile app hits the iPad -- Engadget) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:23:45] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Windows Phone 7 limits push notifications to 15 apps, 16th app is out of luck -- Engadget Mobile) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:23:45] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Inhabitat's Week in Green: modernizing the US national grid, not to mention deserts and pyramids -- Engadget) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:23:45] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Lee Westwood passes Tiger Woods for world golf No. 1 - ESPN) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:23:45] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Sony Ericsson faults 'especially rigorous' firmware testing in US for X10's Eclair update delay on AT&amp;T -- Engadget) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:23:45] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='SlingPlayer Mobile app hits the iPad -- Engadget) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:25:34] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Windows Phone 7 limits push notifications to 15 apps, 16th app is out of luck -- Engadget Mobile') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:25:35] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Inhabitat's Week in Green: modernizing the US national grid, not to mention deserts and pyramids -- Engadget') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:25:35] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Lee Westwood passes Tiger Woods for world golf No. 1 - ESPN') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:25:35] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Sony Ericsson faults 'especially rigorous' firmware testing in US for X10's Eclair update delay on AT&amp;T -- Engadget') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:25:35] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='SlingPlayer Mobile app hits the iPad -- Engadget') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:25:38] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Windows Phone 7 limits push notifications to 15 apps, 16th app is out of luck -- Engadget Mobile') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:25:39] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Inhabitat's Week in Green: modernizing the US national grid, not to mention deserts and pyramids -- Engadget') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:25:39] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Lee Westwood passes Tiger Woods for world golf No. 1 - ESPN') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:25:39] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='Sony Ericsson faults 'especially rigorous' firmware testing in US for X10's Eclair update delay on AT&amp;T -- Engadget') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[14-Jan-2011 16:25:39] PHP Warning:  file_get_contents('http://www.connichiwah.com/samplejson.php?title='SlingPlayer Mobile app hits the iPad -- Engadget') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 739
+[02-Feb-2011 05:26:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[03-Feb-2011 09:02:53] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/admin5/public_html/member/index.php on line 350
+[03-Feb-2011 09:36:03] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/admin5/public_html/member/verify.php on line 152
+[03-Feb-2011 09:36:24] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/admin5/public_html/member/verify.php on line 152
+[03-Feb-2011 09:57:04] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/admin5/public_html/member/verify.php on line 153
+[03-Feb-2011 09:58:03] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/admin5/public_html/member/verify.php on line 153
+[03-Feb-2011 10:00:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/member/verify.php on line 101
+[03-Feb-2011 13:48:22] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/admin5/public_html/member/deactivatenow.php on line 27
+[03-Feb-2011 18:24:40] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/admin5/public_html/AppCode/Notifications.php on line 19
+[03-Feb-2011 18:27:30] PHP Parse error:  syntax error, unexpected '=' in /home/admin5/public_html/AppCode/Notifications.php on line 7
+[03-Feb-2011 18:28:02] PHP Parse error:  syntax error, unexpected '=' in /home/admin5/public_html/AppCode/Notifications.php on line 7
+[03-Feb-2011 18:28:16] PHP Parse error:  syntax error, unexpected '=' in /home/admin5/public_html/AppCode/Notifications.php on line 7
+[03-Feb-2011 18:29:16] PHP Parse error:  syntax error, unexpected '=' in /home/admin5/public_html/AppCode/Notifications.php on line 7
+[03-Feb-2011 18:30:52] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/admin5/public_html/AppCode/Notifications.php on line 6
+[03-Feb-2011 18:32:31] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/admin5/public_html/AppCode/Notifications.php on line 6
+[03-Feb-2011 18:32:44] PHP Parse error:  syntax error, unexpected '=' in /home/admin5/public_html/AppCode/Notifications.php on line 7
+[03-Feb-2011 18:33:31] PHP Parse error:  syntax error, unexpected '=' in /home/admin5/public_html/AppCode/Notifications.php on line 7
+[03-Feb-2011 18:34:13] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/admin5/public_html/AppCode/Notifications.php on line 18
+[03-Feb-2011 18:34:38] PHP Parse error:  syntax error, unexpected '=' in /home/admin5/public_html/AppCode/Notifications.php on line 7
+[03-Feb-2011 18:34:55] PHP Parse error:  syntax error, unexpected '=' in /home/admin5/public_html/AppCode/Notifications.php on line 20
+[03-Feb-2011 20:27:15] PHP Fatal error:  Uncaught CurlException: 6: name lookup timed out
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[05-Feb-2011 20:22:13] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/admin5/public_html/AppCode/SideBarScript.php on line 279
+[05-Feb-2011 20:23:12] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/admin5/public_html/AppCode/SideBarScript.php on line 279
+[06-Feb-2011 14:34:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/FBConnect/fbmain.php:45) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[07-Feb-2011 14:28:54] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/Registration.php on line 563
+[07-Feb-2011 14:29:04] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/Registration.php on line 294
+[07-Feb-2011 14:29:14] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/Registration.php on line 313
+[07-Feb-2011 14:30:13] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/Registration.php on line 381
+[07-Feb-2011 14:31:01] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/Registration.php on line 381
+[07-Feb-2011 15:07:21] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:34] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:34] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:34] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 15:07:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[07-Feb-2011 18:37:13] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/random.php on line 57
+[07-Feb-2011 18:37:24] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/random.php on line 57
+[07-Feb-2011 18:41:31] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/random.php on line 33
+[07-Feb-2011 18:41:32] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/random.php on line 33
+[07-Feb-2011 18:42:00] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/random.php on line 31
+[07-Feb-2011 18:43:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:52) in /home/admin5/public_html/member/random.php on line 53
+[07-Feb-2011 18:44:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:52) in /home/admin5/public_html/member/random.php on line 53
+[07-Feb-2011 18:44:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:44:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:44:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:45:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:51) in /home/admin5/public_html/member/random.php on line 52
+[07-Feb-2011 18:46:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:50) in /home/admin5/public_html/member/random.php on line 51
+[07-Feb-2011 18:46:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:50) in /home/admin5/public_html/member/random.php on line 51
+[07-Feb-2011 18:46:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:50) in /home/admin5/public_html/member/random.php on line 51
+[07-Feb-2011 18:46:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/member/random.php:50) in /home/admin5/public_html/member/random.php on line 51
+[08-Feb-2011 21:01:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[08-Feb-2011 21:02:00] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[08-Feb-2011 21:02:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[11-Feb-2011 10:27:03] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/admin5/public_html/member/index.php on line 475
+[11-Feb-2011 10:27:25] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/admin5/public_html/member/index.php on line 475
+[11-Feb-2011 10:28:04] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/admin5/public_html/member/index.php on line 625
+[11-Feb-2011 10:28:25] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/admin5/public_html/member/index.php on line 625
+[11-Feb-2011 13:41:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/MemberDBMethods.php on line 54
+[11-Feb-2011 13:41:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/MemberDBMethods.php on line 54
+[11-Feb-2011 13:42:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/MemberDBMethods.php on line 54
+[11-Feb-2011 13:42:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/MemberDBMethods.php on line 54
+[11-Feb-2011 14:15:29] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/profile.php on line 373
+[11-Feb-2011 14:15:36] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/profile.php on line 373
+[11-Feb-2011 14:40:47] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/profile.php on line 383
+[11-Feb-2011 14:41:01] PHP Fatal error:  Call to undefined method MemberDBMethods::mostRecentComment() in /home/admin5/public_html/member/profile.php on line 23
+[11-Feb-2011 14:41:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 942
+[11-Feb-2011 14:42:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 942
+[11-Feb-2011 14:43:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 942
+[11-Feb-2011 14:44:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 942
+[11-Feb-2011 14:46:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 942
+[11-Feb-2011 14:46:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 942
+[11-Feb-2011 14:46:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 942
+[11-Feb-2011 14:54:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 927
+[11-Feb-2011 15:00:38] PHP Fatal error:  Call to undefined method HelpingDBMethods::mostRecentComment() in /home/admin5/public_html/member/profile.php on line 23
+[11-Feb-2011 15:10:40] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/profile.php on line 387
+[11-Feb-2011 15:23:18] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/profile.php on line 386
+[11-Feb-2011 15:41:48] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/admin5/public_html/member/profile.php on line 38
+[11-Feb-2011 15:41:48] PHP Parse error:  syntax error, unexpected '<' in /home/admin5/public_html/member/profile.php on line 38
+[11-Feb-2011 15:42:08] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/admin5/public_html/member/profile.php on line 347
+[11-Feb-2011 15:42:08] PHP Parse error:  syntax error, unexpected '<' in /home/admin5/public_html/member/profile.php on line 347
+[11-Feb-2011 16:19:30] PHP Fatal error:  Cannot redeclare HelpingDBMethods::GetFriends() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 885
+[11-Feb-2011 16:21:27] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/profile.php on line 405
+[11-Feb-2011 17:31:53] PHP Parse error:  syntax error, unexpected T_ECHO in /home/admin5/public_html/member/profile.php on line 407
+[11-Feb-2011 17:38:45] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/admin5/public_html/member/profile.php on line 44
+[11-Feb-2011 17:38:45] PHP Parse error:  syntax error, unexpected '<' in /home/admin5/public_html/member/profile.php on line 44
+[12-Feb-2011 18:26:06] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 971
+[12-Feb-2011 18:30:34] PHP Parse error:  syntax error, unexpected T_ELSE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 971
+[12-Feb-2011 18:31:11] PHP Parse error:  syntax error, unexpected T_ELSE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 971
+[12-Feb-2011 18:31:26] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 35 bytes) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 970
+[12-Feb-2011 18:31:49] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 35 bytes) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 970
+[14-Feb-2011 14:53:01] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/profile.php on line 412
+[14-Feb-2011 15:14:41] PHP Fatal error:  Class 'HelpingDBMethods' not found in /home/admin5/public_html/member/profile.php on line 23
+[14-Feb-2011 18:01:57] PHP Fatal error:  Uncaught CurlException: 52: Empty reply from server
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[14-Feb-2011 19:29:35] PHP Fatal error:  Class 'HelpingDBMethods' not found in /home/admin5/public_html/member/profile.php on line 23
+[16-Feb-2011 15:14:24] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 172
+[16-Feb-2011 15:16:34] PHP Fatal error:  Class 'ConnichiwahUI' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 178
+[16-Feb-2011 16:34:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[16-Feb-2011 16:34:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[16-Feb-2011 16:34:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[16-Feb-2011 16:34:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[27-Feb-2011 17:25:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[05-Mar-2011 15:49:17] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 593
+[05-Mar-2011 17:08:01] PHP Fatal error:  Class 'HelpingDBMethods' not found in /home/admin5/public_html/member/index.php on line 389
+[05-Mar-2011 21:57:38] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/getStory.php on line 22
+[05-Mar-2011 21:58:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 66
+[05-Mar-2011 21:58:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 66
+[05-Mar-2011 21:59:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 66
+[05-Mar-2011 21:59:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 66
+[06-Mar-2011 00:19:16] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1088
+[06-Mar-2011 00:25:42] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 321
+[06-Mar-2011 01:28:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 492
+[06-Mar-2011 01:28:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 492
+[06-Mar-2011 01:28:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 492
+[06-Mar-2011 01:28:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 492
+[06-Mar-2011 01:29:00] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/admin5/public_html/member/index.php on line 28
+[06-Mar-2011 01:29:00] PHP Parse error:  syntax error, unexpected '<' in /home/admin5/public_html/member/index.php on line 28
+[06-Mar-2011 01:29:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 492
+[06-Mar-2011 01:29:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 492
+[07-Mar-2011 06:46:43] PHP Fatal error:  Uncaught CurlException: 6: name lookup timed out
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[07-Mar-2011 09:35:53] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[07-Mar-2011 09:35:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 19:46:30] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/incomplete_profile_landing_page.php on line 117
+[08-Mar-2011 20:42:24] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1070
+[08-Mar-2011 20:42:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/profile.php on line 8
+[08-Mar-2011 20:42:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 20:42:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/profile.php on line 8
+[08-Mar-2011 20:42:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 20:42:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/profile.php on line 8
+[08-Mar-2011 20:42:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 20:42:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 20:42:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 20:42:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 20:42:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 20:42:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:42:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 20:42:36] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1070
+[08-Mar-2011 20:49:21] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1070
+[08-Mar-2011 20:49:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:49:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 20:49:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:49:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[08-Mar-2011 20:49:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:49:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/profile.php on line 8
+[08-Mar-2011 20:49:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[08-Mar-2011 20:49:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/profile.php on line 8
+[08-Mar-2011 21:29:05] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/member/profile.php on line 419
+[08-Mar-2011 21:29:29] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/member/profile.php on line 419
+[08-Mar-2011 21:31:30] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/member/profile.php on line 421
+[08-Mar-2011 21:31:33] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/member/profile.php on line 421
+[08-Mar-2011 21:42:20] PHP Parse error:  syntax error, unexpected T_ECHO in /home/admin5/public_html/member/profile.php on line 433
+[08-Mar-2011 22:31:42] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/profile.php on line 48
+[08-Mar-2011 22:31:53] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/profile.php on line 48
+[08-Mar-2011 22:32:02] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/profile.php on line 48
+[08-Mar-2011 23:36:49] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/admin5/public_html/member/profile.php on line 459
+[09-Mar-2011 12:22:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[09-Mar-2011 12:22:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/profile.php on line 8
+[09-Mar-2011 12:22:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/admin5/public_html/AppCode/access.class.php on line 335
+[09-Mar-2011 12:22:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/access.class.php:365) in /home/admin5/public_html/member/index.php on line 8
+[10-Mar-2011 12:28:44] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/admin5/public_html/member/profile.php on line 438
+[10-Mar-2011 12:28:47] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/admin5/public_html/member/profile.php on line 438
+[10-Mar-2011 18:54:30] PHP Parse error:  syntax error, unexpected '"' in /home/admin5/public_html/member/profile.php on line 438
+[10-Mar-2011 18:56:12] PHP Parse error:  syntax error, unexpected '"' in /home/admin5/public_html/member/profile.php on line 438
+[10-Mar-2011 18:56:15] PHP Parse error:  syntax error, unexpected '"' in /home/admin5/public_html/member/profile.php on line 438
+[10-Mar-2011 22:31:43] PHP Parse error:  syntax error, unexpected T_ELSE in /home/admin5/public_html/member/profile.php on line 460
+[10-Mar-2011 22:31:45] PHP Parse error:  syntax error, unexpected T_ELSE in /home/admin5/public_html/member/profile.php on line 460
+[10-Mar-2011 22:34:49] PHP Parse error:  syntax error, unexpected T_ELSE in /home/admin5/public_html/member/profile.php on line 457
+[10-Mar-2011 23:06:15] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/admin5/public_html/member/profile.php on line 76
+[10-Mar-2011 23:06:15] PHP Parse error:  syntax error, unexpected '<' in /home/admin5/public_html/member/profile.php on line 76
+[10-Mar-2011 23:28:12] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/admin5/public_html/member/profile.php on line 71
+[10-Mar-2011 23:28:12] PHP Parse error:  syntax error, unexpected '<' in /home/admin5/public_html/member/profile.php on line 71
+[10-Mar-2011 23:58:21] PHP Parse error:  syntax error, unexpected '{' in /home/admin5/public_html/member/profile.php on line 451
+[10-Mar-2011 23:58:23] PHP Parse error:  syntax error, unexpected '{' in /home/admin5/public_html/member/profile.php on line 451
+[11-Mar-2011 00:00:20] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/admin5/public_html/member/profile.php on line 75
+[11-Mar-2011 00:00:20] PHP Parse error:  syntax error, unexpected '<' in /home/admin5/public_html/member/profile.php on line 75
+[12-Mar-2011 17:34:05] PHP Fatal error:  Class 'Notifications' not found in /home/admin5/public_html/AppCode/SideBarScript.php on line 16
+[13-Mar-2011 14:13:44] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 498
+[13-Mar-2011 14:13:46] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 498
+[15-Mar-2011 21:07:48] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/admin5/public_html/member/index.php on line 512
+[15-Mar-2011 21:08:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/MemberDBMethods.php on line 70
+[15-Mar-2011 21:08:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/MemberDBMethods.php on line 70
+[17-Mar-2011 15:17:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/FBConnect/fbmain.php:44) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[17-Mar-2011 19:13:25] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/getBadges.php on line 451
+[17-Mar-2011 19:38:52] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/admin5/public_html/member/getBadges.php on line 436
+[17-Mar-2011 19:41:48] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 616
+[17-Mar-2011 19:56:39] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 20:07:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 620
+[17-Mar-2011 20:16:58] PHP Fatal error:  Uncaught CurlException: 52: Empty reply from server
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 20:29:15] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 20:36:09] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 21:10:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 766
+[17-Mar-2011 21:28:31] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 21:28:38] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 21:28:43] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 21:28:49] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 21:28:54] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 21:29:30] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 21:48:23] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 21:48:33] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 21:49:51] PHP Fatal error:  Uncaught CurlException: 52: Empty reply from server
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 22:00:08] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 22:07:32] PHP Fatal error:  Cannot redeclare HelpingDBMethods::GetBadgesProfile() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 549
+[17-Mar-2011 22:07:36] PHP Fatal error:  Cannot redeclare HelpingDBMethods::GetBadgesProfile() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 549
+[17-Mar-2011 22:39:01] PHP Fatal error:  Uncaught CurlException: 52: Empty reply from server
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[17-Mar-2011 22:40:25] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[18-Mar-2011 13:57:45] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[21-Mar-2011 15:05:40] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/admin5/public_html/member/hub.php on line 436
+[21-Mar-2011 15:05:42] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/admin5/public_html/member/hub.php on line 436
+[21-Mar-2011 15:06:24] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/admin5/public_html/member/hub.php on line 434
+[21-Mar-2011 17:06:13] PHP Parse error:  syntax error, unexpected T_ELSE in /home/admin5/public_html/member/hub.php on line 6
+[21-Mar-2011 17:06:29] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/hub.php on line 454
+[21-Mar-2011 17:06:31] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/hub.php on line 454
+[21-Mar-2011 17:26:57] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/member/hub.php on line 49
+[21-Mar-2011 17:27:41] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/admin5/public_html/member/hub.php on line 70
+[21-Mar-2011 17:27:41] PHP Parse error:  syntax error, unexpected '<' in /home/admin5/public_html/member/hub.php on line 70
+[21-Apr-2011 18:03:30] PHP Fatal error:  Call to undefined function  hasbadge() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 757
+[07-May-2011 19:06:18] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/admin5/public_html/member/index.php on line 161
+[07-May-2011 19:13:36] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 917
+[07-May-2011 19:13:36] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 917
+[07-May-2011 19:13:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 917
+[07-May-2011 19:47:36] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/admin5/public_html/member/index.php on line 29
+[07-May-2011 19:47:36] PHP Parse error:  syntax error, unexpected '<' in /home/admin5/public_html/member/index.php on line 29
+[11-May-2011 14:43:35] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/hub.php on line 502
+[11-May-2011 14:43:38] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/hub.php on line 502
+[11-May-2011 22:12:20] PHP Catchable fatal error:  Object of class flexibleAccess could not be converted to string in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 732
+[11-May-2011 22:12:25] PHP Catchable fatal error:  Object of class flexibleAccess could not be converted to string in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 732
+[11-May-2011 22:39:14] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 809
+[11-May-2011 22:39:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 809
+[11-May-2011 22:44:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 807
+[11-May-2011 22:44:32] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 807
+[11-May-2011 22:44:51] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 807
+[11-May-2011 22:45:15] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 807
+[11-May-2011 23:43:46] PHP Fatal error:  Uncaught CurlException: 7: couldn't connect to host
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[11-May-2011 23:47:50] PHP Fatal error:  Uncaught CurlException: 7: couldn't connect to host
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[12-May-2011 13:59:06] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1735
+[12-May-2011 13:59:09] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1735
+[12-May-2011 14:13:59] PHP Parse error:  syntax error, unexpected T_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 964
+[12-May-2011 14:14:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 964
+[12-May-2011 14:14:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 964
+[12-May-2011 14:14:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 964
+[12-May-2011 14:25:10] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 964
+[18-May-2011 15:28:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[18-May-2011 15:28:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[18-May-2011 15:37:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin5/public_html/AppCode/FBConnect/fbmain.php:44) in /home/admin5/public_html/AppCode/access.class.php on line 212
+[18-May-2011 16:11:09] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[18-May-2011 16:12:03] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[18-May-2011 16:28:15] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[20-May-2011 03:01:53] PHP Fatal error:  Uncaught CurlException: 7: couldn't connect to host
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[23-May-2011 17:49:44] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 321
+[25-May-2011 00:40:29] PHP Fatal error:  Uncaught CurlException: 28: connect() timed out!
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[27-May-2011 21:11:37] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 683
+[28-May-2011 22:43:10] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/restate.php on line 144
+[18-Jul-2011 22:34:14] PHP Fatal error:  Class 'SideBar' not found in /home/admin5/public_html/member/index.php on line 495
+[18-Jul-2011 22:43:42] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/AppCode/SideBarScript.php on line 133
+[18-Jul-2011 22:53:45] PHP Fatal error:  Class 'SideBar' not found in /home/admin5/public_html/member/index.php on line 495
+[19-Jul-2011 15:57:12] PHP Parse error:  syntax error, unexpected T_ECHO in /home/admin5/public_html/member/restate.php on line 19
+[19-Jul-2011 16:52:21] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/admin5/public_html/member/restate.php on line 18
+[19-Jul-2011 16:52:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 53
+[19-Jul-2011 16:52:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 53
+[19-Jul-2011 19:17:44] PHP Warning:  explode() [<a href='function.explode'>function.explode</a>]: Empty delimiter in /home/admin5/public_html/member/restate.php on line 19
+[19-Jul-2011 19:19:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/admin5/public_html/member/restate.php on line 19
+[20-Jul-2011 13:52:54] PHP Fatal error:  Uncaught CurlException: 6: name lookup timed out
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614
+[21-Jul-2011 14:50:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1053
+[21-Jul-2011 14:50:35] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1053
+[21-Jul-2011 14:51:44] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1053
+[21-Jul-2011 14:51:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1053
+[21-Jul-2011 14:53:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1053
+[21-Jul-2011 18:19:52] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1062
+[21-Jul-2011 18:19:54] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1062
+[21-Jul-2011 18:43:19] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1062
+[21-Jul-2011 21:16:49] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1062
+[22-Jul-2011 13:58:58] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/comments.php on line 331
+[22-Jul-2011 13:59:26] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/member/comments.php on line 378
+[22-Jul-2011 14:25:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:25:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:25:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:25:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:25:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:25:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:27:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:27:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:27:52] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:27:52] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:28:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:28:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:28:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:28:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:30:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:30:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 366
+[22-Jul-2011 14:32:49] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/comments.php on line 332
+[22-Jul-2011 14:32:51] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/comments.php on line 332
+[22-Jul-2011 14:34:04] PHP Fatal error:  Call to undefined method HelpingMethods::GetStorySnippet() in /home/admin5/public_html/member/comments.php on line 34
+[22-Jul-2011 14:49:28] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/admin5/public_html/member/comments.php on line 294
+[22-Jul-2011 14:49:30] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/admin5/public_html/member/comments.php on line 294
+[22-Jul-2011 14:53:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 173
+[22-Jul-2011 14:53:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 173
+[22-Jul-2011 14:53:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 173
+[22-Jul-2011 14:53:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 173
+[22-Jul-2011 14:54:29] PHP Parse error:  syntax error, unexpected T_STRING in /home/admin5/public_html/member/comments.php on line 38
+[22-Jul-2011 14:54:33] PHP Parse error:  syntax error, unexpected T_STRING in /home/admin5/public_html/member/comments.php on line 38
+[22-Jul-2011 14:57:51] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/member/comments.php on line 300
+[22-Jul-2011 15:27:46] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 66
+[22-Jul-2011 16:41:39] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/admin5/public_html/member/comments.php on line 310
+[22-Jul-2011 17:05:46] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/comments.php on line 52
+[22-Jul-2011 17:05:54] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/member/comments.php on line 52
+[22-Jul-2011 17:32:00] PHP Parse error:  syntax error, unexpected $end in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 41
+[22-Jul-2011 17:32:03] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 2025
+[22-Jul-2011 17:32:06] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 2025
+[22-Jul-2011 17:32:25] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 2025
+[22-Jul-2011 18:13:06] PHP Fatal error:  Call to undefined method MemberDBMethods::GetReply() in /home/admin5/public_html/member/comments.php on line 34
+[22-Jul-2011 18:21:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 210
+[22-Jul-2011 18:21:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 210
+[22-Jul-2011 18:21:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 210
+[22-Jul-2011 18:21:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 210
+[23-Jul-2011 18:36:29] PHP Fatal error:  Uncaught CurlException: 6: name lookup timed out
+  thrown in /home/admin5/public_html/AppCode/FBConnect/facebook.php on line 614

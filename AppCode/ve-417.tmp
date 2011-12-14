@@ -1,0 +1,53 @@
+<?php 
+class Settings
+{
+	//private Static $_Server_State = 'local'; //'Remote'
+	private static $_DBServerName = "localhost";
+	// Settings For Development Server
+	//private static $_DBName = "db_connichiwah";
+	//private static $_UserName = "root";
+	//private static $_DBPassword = "";
+	//private static $_ROOTURL = 'http://localhost/connichiwah/';
+	//private static $_CommentServiceURL = 'http://localhost/connichiwah/service/comment-service.php';
+	
+	// Settings For Production Server
+	private static $_DBName = "admin5_connichiwah";
+	private static $_UserName = "admin5_admin5";
+	private static $_DBPassword = "admin5";
+	private static $_ROOTURL = 'http://www.connichiwah.com/';
+	private static $_CommentServiceURL = 'http://www.connichiwah.com/service/comment-service.php';
+	
+	function GetRootURL()
+	{
+		return Settings::$_ROOTURL;
+	}
+	
+	function GetDatabaseName()
+	{
+		return Settings::$_DBName;
+	}
+	
+	function GetCommentServiceURL()
+	{
+		return Settings::$_CommentServiceURL;
+	}
+	
+	function ConnectDB()
+	{
+		$connection = mysql_connect(Settings::$_DBServerName, Settings::$_UserName, Settings::$_DBPassword)or die(mysql_error()); 	
+		return $connection;
+	}
+	
+	function isValidSecretKey($key)
+	{
+		if($key == Settings::$_SecretKey)
+		{
+			return true;			
+		}
+		else
+		{
+			return false;
+		}
+	}	
+}
+?>

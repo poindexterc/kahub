@@ -1,0 +1,538 @@
+.span-underline-commented-text
+{
+    border-bottom: Solid 3px #F9DB00 !important;
+    cursor: pointer !important;
+}
+
+.span-hover-commented-text
+{
+    background-color: #FAE20D !important;
+    border: Solid 3px #FAE20D !important;
+    cursor: pointer !important;
+    -moz-border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+}
+
+
+/*------------------------------- Pop up Styles ---------------------------------*/
+.connichiClass-Main587
+{
+    background-color: Transparent !important;
+    position: absolute !important;
+    color: #0A0A0A !important;
+    font-family: Helvetica, Arial, sans-serif !important;
+    height: auto !important; 
+    overflow: visible !important;
+    z-index: 2000 !important;
+}
+
+.connichiClass-Main587 .connichiClass-Main587-container
+{
+    display: none;
+}
+
+.share-fb{
+	font: normal normal normal 10pt Arial, sans-serif !important;
+}
+
+.connichiClass-Main587 .helptext{
+	width: 205px;
+	background: #fff;
+	height: 25px !important;
+	margin-top: 10px;
+	margin-bottom: 10px;
+    border: 1px solid #ecd3d2 !important;
+    padding: 3px !important;
+    color: #949494 !important;
+    font-size: 9pt !important;
+    font-family: Helvetica, Arial, sans-serif !important;
+}
+
+
+
+.connichiClass-Main587 .reply-box{
+	width: 205px;
+	background: #fff;
+	height: 25px !important;
+	margin-top: 10px;
+	margin-bottom: 10px;
+    border: 1px solid #ecd3d2 !important;
+    padding: 3px !important;
+    color: #949494 !important;
+    font-size: 9pt !important;
+    font-family: Helvetica, Arial, sans-serif !important;
+}
+
+.connichiClass-Main587 .reply-box:hover{
+	cursor: pointer;
+	color: #2B2B2B !important;
+	border: 1px solid #E8BCBC !important;
+    
+}
+.connichiClass-Main587 .UI-Content
+{
+    max-width: 300px;
+}
+
+.connichiClass-Main587 .box-head-top
+{
+    width: auto;
+    height: auto;
+}
+
+.connichiClass-Main587 .UI-box-content-middle
+{
+    background-color: #f9f5f2;
+    border-top: Solid 2px #cc3333;
+    border-right: Solid 1px #cc3333;
+    border-left: Solid 1px #cc3333;
+    padding: 2px;
+}
+
+.connichiClass-Main587 .UI-box-footer-bottom
+{
+    background: url(images/box-footer-bottom.png) no-repeat;
+    height: 12px !important;
+}
+
+.connichiClass-Main587 .UI-Face-Image
+{
+    width: 50px !important;
+}
+
+.connichiClass-Main587 .UI-Share-TextBox
+{
+    display: block !important;
+    width: 190px !important;
+    height: 35px ;
+    background: #fff;
+    border: 1px solid #ecd3d2;
+    font-family: Helvetica, Arial, sans-serif !important;
+	font-size: 9pt;
+
+}
+
+.connichiClass-Main587 .post-reply-btn
+{
+    display: inline-block !important;
+    background: #e2564b;
+    width: 90px;
+    height: 18px;
+    line-height: 14px;
+    color: #fff;
+}
+.connichiClass-Main587 .share-btn
+{
+    display: inline-block;
+    background: #e2564b;
+    border: none;
+    width: 65px;
+    height: 18px;
+    float: right !important;
+    margin-top: 4px !important;
+    color: #fff !important;
+    cursor: pointer;
+}
+.connichiClass-Main587 .share-btn:hover
+{
+    background: #c0311a;
+}
+.connichiClass-Main587 .okay-done
+{
+    display: inline-block;
+    background: #e2564b;
+    border: none;
+    text-align: center;
+    width: 173px;
+    height: 18px;
+    color: #fff;
+}
+.connichiClass-Main587 .trust-btn
+{
+    display: inline-block;
+    color: #FFFFFF;
+    background: #e2564b;
+    border: 1px solid #b93f35;
+    padding: 3px 0;
+    margin: 3px 0;
+    text-align: center;
+    width: 54px;
+    margin-right: 68px;
+    font-weight: bold;
+}
+.connichiClass-Main587 .trust-btn:hover
+{
+    display: inline-block !important;
+    background: #C0311A;
+    border: 1px solid #9E2815 !important;
+    padding: 3px 0 !important;
+    text-align: center !important;
+    width: 54px !important;
+    margin-right: 68px !important;
+}
+.connichiClass-Main587 .trust-btn-disabled
+{
+    display: inline-block !important;
+    background: #e2564b !important;
+    border: 1px solid #9E2815 !important;
+    padding: 3px 0 !important;
+    margin: 3px 0 !important;
+    text-align: center !important;
+    width: 54px !important;
+    margin-right: 68px !important;
+    font-weight: bold !important;
+    font-size: 12px !important;
+    color: #BF4741 !important;
+}
+.connichiClass-Main587 .comment-wrapper
+{
+    padding: 0px 0px 5px 0px !important;
+    width: 210px;
+}
+.connichiClass-Main587 .comment-reply-wrapper
+{
+    border-top: Solid 1px #ecd3d2 !important;
+    padding: 5px 0px 0px 0px !important;
+    width: 208px;
+}
+.connichiClass-Main587 .comment-text
+{
+    width: 145px;
+    padding: 0px 0px 0px 5px !important;
+}
+.connichiClass-Main587 .UI-Face-Image-Link
+{
+    text-decoration: none;
+    margin: 2px;
+}
+.connichiClass-Main587 .UI-Face-Image-Link:hover
+{
+    text-decoration: none !important;
+}
+.connichiClass-Main587 .UI-Face-Image-Link-UserName
+{
+    font-size: 20px;
+    color: #405882;
+    text-decoration: none;
+    vertical-align: middle;
+    display: none;
+}
+.connichiClass-Main587 .UI-Privacy-lock-Hover
+{
+    display: none;
+    width: 200px !important;
+    height: 31px;
+    background-image: url(images/privacy-hover.png);
+    background-repeat: no-repeat !important;
+    color: #FFFFFF;
+    font-size: 12px;
+    padding: 4px 0px 0px 5px !important;
+    position: fixed !important;
+}
+.connichiClass-Main587 .suggestionsBox
+{
+    margin: 0px 0px 5px 0px;
+    width: 170px;
+    background-color: #FFF !important; /*-moz-border-radius: 7px;     -webkit-border-radius: 7px;     border: 1px solid #000;*/
+    color: #222222;
+    height: 100px;
+}
+
+.connichiClass-Main587 .suggestionList
+{
+    margin: 0px;
+    padding: 0px;
+}
+.connichiClass-Main587 .suggestionList ul
+{
+    padding: 0px;
+    margin: 0px;
+}
+.connichiClass-Main587 .suggestionList li
+{
+    margin: 0px 0px 0px 0px !important;
+    padding: 5px !important;
+    list-style: none !important;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    border-bottom: Solid 1px Silver;
+}
+
+.connichiClass-Main587 .suggestionList li:hover
+{
+    background-color: #BF4741;
+	color: #FFF;
+}
+
+.connichiClass-Main587 .mb-5
+{
+    margin-bottom: 5px;
+}
+.connichiClass-Main587 .f-w
+{
+    color: #fff;
+}
+.connichiClass-Main587 .fl
+{
+    float: left;
+}
+.connichiClass-Main587 .fr
+{
+    float: right;
+}
+.connichiClass-Main587 .wrapper
+{
+    height: 100%;
+    overflow: hidden;
+}
+.connichiClass-Main587 .cl
+{
+    clear: both;
+    font-size: 0;
+    height: 0;
+}
+.connichiClass-Main587 .clearfix:after
+{
+    clear: both;
+    content: ' ';
+    display: block;
+    font-size: 0;
+    line-height: 0;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+.connichiClass-Main587 .png
+{
+    /* for png ../images to fix for IE6*/
+}
+
+
+/* Alignments */
+.connichiClass-Main587 .center
+{
+    text-align: center;
+}
+.connichiClass-Main587 .right
+{
+    text-align: right;
+}
+.connichiClass-Main587 .top
+{
+    vertical-align: top;
+}
+.connichiClass-Main587 .middle
+{
+    vertical-align: middle;
+}
+.connichiClass-Main587 .comment-text span
+{
+    font-weight: bold;
+}
+.connichiClass-Main587 .white-box-140
+{
+    width: 100%;
+    height: 45px;
+    background: #fff;
+    border: 1px solid #ecd3d2;
+    vertical-align: middle;
+}
+.connichiClass-Main587 .red-btn-85
+{
+    display: inline-block;
+    width: 85px;
+    height: 50px;
+    background: #bf4741;
+    border: 1px solid #ce746f;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+    padding-top: 15px !important;
+}
+.connichiClass-Main587 .white-box-172
+{
+    display: inline-block;
+    width: 172px;
+    text-align: center;
+    padding: 7px 0;
+    background: #fff;
+    border: 1px solid #ecd3d2;
+    margin-bottom: 5px !important;
+    font-size: 10px;
+}
+
+.connichiClass-Main587 .reply-pagination
+{
+    height:30px;
+    color:#FFF;
+    font-size:16px;
+    margin:5px 0px 5px 0px;
+}
+
+.connichiClass-Main587 .reply-pagination .more
+{
+    height:25px;
+    width:100%;
+    background-color:#C0311A;
+    text-align:center;
+    padding-top:10px;
+    cursor:pointer;
+}
+.connichiClass-Main587 .reply-pagination .previous
+{
+    float:left;
+    width:45%;
+    height:25px;
+    background-color:#C0311A;
+    text-align:center;
+    padding-top:10px;
+    cursor:pointer;
+}
+
+.connichiClass-Main587 .reply-pagination .next
+{
+    float:right;
+    width:45%;
+    height:25px;
+    background-color:#C0311A;
+    text-align:center;
+    padding-top:10px !important;
+    cursor:pointer;
+}
+
+div.UI-box-content-middle label {
+    margin-top: 0;
+    background-color: #c29fc2;
+}
+
+li.sharebtn {
+    float: left;
+    list-style-type: none;
+    border-style: solid;
+    border-color: #e0e0e0;
+    border-bottom-width: 3px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    height: 17px;
+    padding-right: 6px;
+    padding-left: 20px;
+    margin-top: 8px;
+}
+
+li.sharebtn:hover {
+    cursor: pointer;
+    border-style: solid;
+    border-color: #F3C333;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 3px;
+    border-left-width: 0;
+}
+div.UI-box-content-middle {
+    padding-bottom: 34px;
+}
+
+input.reply-box {
+    margin-bottom: -31px;
+}
+
+img.UI-Face-Image {
+    margin-bottom: -17px;
+}
+
+tbody tr td {
+    margin-top: -21px;
+}
+
+div.UI-box-content-middle {
+    padding-bottom: 34px !important;
+}
+
+input.reply-box {
+    margin-bottom: -31px;
+}
+
+img.UI-Face-Image {
+    margin-bottom: -17px;
+}
+
+tbody tr td {
+    margin-top: -21px;
+}
+
+li.sharebtn.active {
+    border-style: solid;
+    border-color: #F39500;
+}
+input.reply-box {
+    margin-bottom: -24px;
+    margin-top: 23px;
+}
+
+img.UI-Face-Image.fl {
+    float: left;
+}
+
+div.comment-text.fl {
+    margin-top: -30px;
+    margin-left: 54px;
+    font-family: 'Droid Sans';
+    font-size: 13px;
+}
+
+textarea.UI-Share-TextBox {
+    font-family: 'Droid Sans' !important;
+    font-size: 12px;
+}
+
+input.share-btn {
+    width: 189px !important;
+    margin-top: 8px;
+    font-family: 'Droid Sans';
+    font-size: 13px;
+    background-color: #F15A24 !important;
+}
+
+input.share-btn:hover {
+    background-color: #de5725 !important;
+}
+
+input.reply-box {
+    margin-top: 22px !important;
+    margin-bottom: -25px !important;
+}
+
+div.comment-wrapper {
+    margin-bottom: 20px !important;
+}
+
+div.comment-reply-wrapper {
+    margin-bottom: -21px !important;
+}
+
+input.post-reply-btn {
+    font-family: 'Droid Sans';
+    font-size: 13px;
+    margin-left: 3px !important;
+    margin-top: 9px !important;
+    width: 205px !important;
+    height: 21px !important;
+    background-color: #F15A24 !important;
+    border-style: none !important;
+}
+
+input.post-reply-btn:hover {
+    background-color: #de5725 !important ;
+}
+
+li.sharebtn {
+    padding-left: 39px;
+    padding-right: 21px;
+}
+
+
+
+
+

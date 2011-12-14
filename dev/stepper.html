@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Getting Started</title>
+  
+  <!-- Make it look good on the iPhone (: -->
+  <meta name="viewport" content="width=device-width">
+  
+  <link rel="stylesheet" href="stylesheets/ui-step.css">
+  <link rel="stylesheet" href="stylesheets/ui.stepper.css">
+  <link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8">
+  <link media="only screen and (max-device-width: 480px)" href="stylesheets/ios.css" type="text/css" rel="stylesheet" />
+  <script src="javascripts/jquery.js" type="text/javascript" charset="utf-8"></script>
+  <script src="javascripts/stepper.js" type="text/javascript" charset="utf-8"></script>
+  
+  <script type="text/javascript" charset="utf-8">
+    $(function() {
+      // Hide the label at start
+      $('#progress_bar .ui-progress .ui-label').hide();
+      // Set initial value
+      $('#progress_bar .ui-progress').css('width', '0%');
+      // Simulate some progres    $(this).animateProgress(79, function() 
+      });
+
+    	function stepOne(){
+    		$('#progress_bar .ui-progress').animateProgress(1);
+    		$('#one').fadeIn();
+    		$('#pre').fadeOut();
+    	 }
+    	 function stepTwo(){
+     		$('#progress_bar .ui-progress').animateProgress(50);
+     		$('#one').fadeOut();
+     		$('#twoa').fadeIn();
+     	 }
+     	 function stepFinala(){
+     		$('#twoa').fadeOut();
+     		$('#twob').fadeIn();
+     	 }
+     	 
+     	  function stepFinalb(){
+          $('#twob').fadeOut();
+          $('#twoc').fadeIn();
+          }
+       	  function stepFinalc(){
+       	    $('#progress_bar .ui-progress').animateProgress(100);
+         		
+            $('#twoc').fadeOut();
+            $('#final').fadeIn();
+            }
+  </script>
+  <style type="text/css" media="screen">
+    .AvenirLTStdRoman {font-weight: normal; font-style: normal;line-height:normal; font-family: 'AvenirLTStd55Roman', sans-serif;}
+		.AvenirLTStdOblique {font-weight: normal; font-style: italic;line-height:normal; font-family: 'AvenirLTStd55Oblique', sans-serif;}
+		.AvenirLTStdLightOblique {font-weight: normal; font-style: italic;line-height:normal; font-family: 'AvenirLTStd35LightOblique', sans-serif;}
+		.AvenirLTStdLight {font-weight: normal; font-style: normal;line-height:normal; font-family: 'AvenirLTStd35Light', sans-serif;}
+		.AvenirLTStdHeavyOblique {font-weight: normal; font-style: italic;line-height:normal; font-family: 'AvenirLTStd85HeavyOblique', sans-serif;}
+		.AvenirLTStdHeavy {font-weight: normal; font-style: normal;line-height:normal; font-family: 'AvenirLTStd85Heavy', sans-serif;}
+	.button {
+   border: 1px solid #7d7d7d;
+   background: #bfbfbf;
+   background: -webkit-gradient(linear, left top, left bottom, from(#FEFEFE), to(#E6E6E6));
+   background: -moz-linear-gradient(top, #FEFEFE, #E6E6E6);
+   padding: 5.5px 11px;
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   -webkit-box-shadow: rgba(204, 204, 204, 1) 0 1px 0;
+   -moz-box-shadow: rgba(204, 204, 204, 1) 0 1px 0;
+   box-shadow: rgba(204, 204, 204, 1) 0 1px 0;
+   color: #2e2e2e;
+   font-weight: bold;
+   font-size: 13px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;   
+   }
+.button:hover {
+    -moz-box-shadow: 0px 0px 3px #000;  
+    -webkit-box-shadow: 0px 0px 3px #000;
+    box-shadow: 0px 0px 3px #000;
+   }
+.button:active {
+   color: #B3B3B3;
+   }
+  </style>
+</head>
+<body>
+
+    
+    <!--
+      Designed, styled and coded by Ivan Vanderbyl
+      http://dribbble.com/players/ivan
+      If you use this, please give credit where due, and send me a screenshot or link
+
+      Copyright (c) 2010 Ivan Vanderbyl
+      Originally found at http://ivan.ly/ui
+
+      Permission is hereby granted, free of charge, to any person obtaining a copy
+      of this software and associated documentation files (the "Software"), to deal
+      in the Software without restriction, including without limitation the rights
+      to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+      copies of the Software, and to permit persons to whom the Software is
+      furnished to do so, subject to the following conditions:
+
+      The above copyright notice and this permission notice shall be included in
+      all copies or substantial portions of the Software.
+
+      THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+      IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+      FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+      AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+      LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+      OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+      THE SOFTWARE.
+    -->
+    
+    <!-- Progress bar -->
+    <div class="wrap">
+    <div id="progress_bar" class="ui-progress-bar ui-container">
+      <div class="ui-progress" style="width: 79%;">
+        <span class="ui-label" style="display:none;">Getting Ready <b class="value">0%</b></span>
+        
+      </div>
+    </div>
+    
+    <!-- /Progress bar -->
+    <ul class="steps">
+      <li class="notDone1"></li>
+      <li class="done1"></li>
+      <li class="notDone2"></li>
+      <li class="done2"></li>
+      <li class="notDone3"></li>
+      <li class="done3"></li>
+    </ul>
+    </div>
+    <div class="instwrap">
+    <ul class="help">
+      <li>
+    <div id='pre'><div id="instructions"><p>Howdy! Welcome to connichiwah! <br> Connichiwah is the easiest way to share the stuff you like online. <br> This <i>super-ultra-quick</i> tutorial will show you how to use all of the features of connichiwah, and will get you started sharing with friends. <br> So, what are you waiting for?</p> <br><div class="next"><a href="#" class="button" onClick="stepOne()">	<span class="AvenirLTStdHeavy" style="font-size:14pt;">Get Started</span></a></div></div></div>
+    
+    </li><li>
+    <div id='one' style="display:none;"><div id="instructions"><p>Sharing with connichiwah couldn't be easier <br> All you've got to do is highlight <b>anything</b>, <b>anywhere</b> on <b>any page</b>,that you think is interesting, tell your friends what you think, then click share</p> <br><div class="next"><a href="#" class="button" onClick="stepTwo()">	<span class="AvenirLTStdHeavy" style="font-size:14pt;">Next</span></a></div></div></div>
+    </li><li>
+    <div id='twoa' style="display:none;"><div id="instructions"><p>You can even share something with just one person, in only a few clicks. All you have to do is: <b>1.</b> Highlight something. <div class="next"><a href="#" class="button" onClick="stepFinala()">	<span class="AvenirLTStdHeavy" style="font-size:14pt;">Continue</span></a></div></div>
+      </li><li>
+      <div id='twob' style="display:none;"><div id="instructions"> <p><b>2.</b> Then in the box that pops up, click on the lock icon and click "Share with a source" </p><br><div class="next"><a href="#" class="button" onClick="stepFinalb()">	<span class="AvenirLTStdHeavy" style="font-size:14pt;">Continue</span></a></div></div></div>
+      </li><li>
+      <div id='twoc' style="display:none;"><div id="instructions"><p><b>3.</b>  Type the name of the friend, click done, then type a comment and your friend will be notified that something has been shared with only them <br> It's like a secret between you and your friend.</p> <br><div class="next"><a href="#" class="button" onClick="stepFinalc()">	<span class="AvenirLTStdHeavy" style="font-size:14pt;">Next</span></a></div></div></div>
+    </li><li>
+      <div id='final' style="display:none;"><div id="instructions"><p>That's it! <br> Now, start commenting!</p> <br><div class="next"><a href="#" class="button" onClick="stepFinish()">	<span class="AvenirLTStdHeavy" style="font-size:14pt;">That's it!</span></a></div></div>
+    </li>
+    </ul>
+    </div>
+    
+    
+    <div class="content" id="main_content" style="display: none;">
+      <p>
+        Inspired by a shot from <a href="http://dribbble.com/shots/33322-Modal-upload">Jonno Riekwel</a>, I knocked up a quick <a href="http://dribbble.com/shots/55908-Progress-Bar">Progress Bar</a> in Photoshop on a friday afternoon before heading to the pub.
+      
+        Then a couple of people suggested implementing it with CSS.
+      </p>
+      
+      <p>
+        So I did.
+      </p>
+      
+      <p>
+        Enjoy,<br>
+        <a href="http://dribbble.com/players/ivan">Ivan Vanderbyl</a>
+      </p>
+      
+      <p class="small">
+        This is best viewed in a Webkit based browser, <a href="http://google.com/chrome" rel="nofollow">Chrome</a> is good*, also Safari. Opera 10.62+ looks ok, however it doesn't support gradients. Firefox and IE 9 kind of work (no stripe animation). IE 8, 7 and 6 do not support rounding, shadows, animation, or much else for that matter, in fact they are pretty bloody useless at being browsers.
+      </p>
+      
+      <p class="small">
+        * There is a <a href="http://code.google.com/p/chromium/issues/detail?id=29427" title="Inset box shadow escapes content when border radius present">known issue</a> with Chrome for Windows and Linux which will cancel out the rounded corners due to the use of inset box shadow. Because I use a Mac this is not regarded as an issue.
+      </p>
+            
+    </div>
+    
+  </div>
+  
+  <a href="http://github.com/ivanvanderbyl/ui-progress-bar" id="fork_me" style="display:none;"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a> 
+  
+
+</body>
+</html>

@@ -1,0 +1,153 @@
+<?php
+require_once 'MemberDBMethods.php';
+class Notifications
+{
+	function GetNoOfNotifications($MemberID)
+	{
+		$result = 0; 
+		$Query = "SELECT COUNT(NotificationID) AS Count FROM tbl_notifications WHERE (AddressedTo = '$MemberID') AND (Viewed <> 1)";	
+		$QueryResult =  mysql_query($Query)or die(mysql_error());
+		$row = mysql_fetch_array($QueryResult);
+		if($row!=false)
+		{
+			$result = $row['Count'];
+		}
+		return $result;
+	}
+	
+	function GetNewNotifications($MemberID)
+	{
+		$result = ''; 
+		$Query = "SELECT * FROM tbl_notifications WHERE (AddressedTo = '$MemberID') AND (Viewed <> 1) ORDER BY DateTime DESC";	
+		$QueryResult =  mysql_query($Query)or die(mysql_error());
+		$row = mysql_fetch_array($QueryResult);
+		while($row!=false)
+		{
+			$NID = $row['NotificationID'];
+			$NType = $row['NotificationType'];
+			if($NType == 1)
+			{
+				$result .= Notifications::GetReplyOnCommentNotification($NID);
+			}
+			elseif($NType == 2)
+			{
+				$result .= Notifications::GetFriendRequestNotification($NID);
+			}
+			elseif($NType == 3)
+			{
+				$result .= Notifications::GetFriendRequestAcceptedNotification($NID);
+			}
+			elseif($NType == 4)
+			{
+				$result .= Notifications::GetBadgeRecievedNotification($NID);
+			}
+			elseif($NType == 5)
+			{
+				$result .= Notifications::GetFriendSharedSomthingNotification($NID);
+			}
+			elseif($NType == 6)
+			{
+				$result .= Notifications::GetBragToFriendNotification($NID);
+			}
+			$row = mysql_fetch_array($QueryResult);
+		}
+		return $result;
+	}
+	
+	function InsertNotification($NType, $data)
+	{
+		$Query = "INSERT INTO tbl_notifications (NotificationType, AddressedTo) VALUES  ('" . $NType . "', '" . $data['AddressedTo'] . "')";
+		$QueryResult =  mysql_query($Query)or die(mysql_error());
+		$NID = mysql_insert_id();
+		if($NType == 1)
+		{
+			//$result .= Notifications::GetReplyOnCommentNotification($NID);
+		}
+		elseif($NType == 2)
+		{
+			//$result .= Notifications::GetFriendRequestNotification($NID);
+		}
+		elseif($NType == 3)
+		{
+			//$result .= Notifications::GetFriendRequestAcceptedNotification($NID);
+		}
+		elseif($NType == 4)
+		{
+			//$result .= Notifications::GetBadgeRecievedNotification($NID);
+		}
+		elseif($NType == 5)
+		{
+			$Query = "INSERT INTO tbl_notifications_share (NotificationID, MemberID, StoryID) VALUES  ('" . $NID . "', '" . $data['ActionBy'] . "', '" . $data['StoryID'] . "')";
+			$QueryResult =  mysql_query($Query)or die(mysql_error());
+		}
+		elseif($NType == 6)
+		{
+			//$result .= Notifications::GetBragToFriendNotification($NID);
+		}
+	}
+	
+	function SendNotificationToNetwork($MemberID, $StoryID)
+	{
+		$Query = "SELECT a.MemberID_Passive AS myFriendID 
+					FROM tbl_friends a
+						INNER JOIN tbl_friends b ON a.MemberID_Active = b.MemberID_Passive AND a.MemberID_Passive = b.MemberID_Active
+					WHERE (a.MemberID_Active =  '$MemberID')";	
+		$QueryResult =  mysql_query($Query)or die(mysql_error());
+		$row = mysql_fetch_array($QueryResult);
+		while($row!=false)
+		{
+			$friendID = $row['myFriendID'];
+			$data = array("AddressedTo" => $friendID, "ActionBy" => $MemberID, "StoryID" => $StoryID);
+			Notifications::InsertNotification(5, $data);
+			$row = mysql_fetch_array($QueryResult);
+		}
+	}
+	
+	private function GetReplyOnCommentNotification($NID)
+	{
+		return '<div>Reply On Comment</div>';
+	}
+	
+	private function GetFriendRequestNotification($NID)
+	{
+		return '<div>Friend Request</div>';
+	}
+	
+	private function GetFriendRequestAcceptedNotification($NID)
+	{
+		return '<div>Freind Request Accepted</div>';
+	}
+	
+	private function GetBadgeRecievedNotification($NID)
+	{
+		return '<div>Badge Recieved</div>';
+	}
+	
+	private function GetFriendSharedSomthingNotification($NID)
+	{
+		$result = ''; 
+		$Query = "SELECT * FROM tbl_notifications_share WHERE (NotificationID = '$NID')";	
+		$QueryResult =  mysql_query($Query)or die(mysql_error());
+		$row = mysql_fetch_array($QueryResult);
+		if($row!=false)
+		{
+			$ActionBy = $row['MemberID'];
+			$StoryID = $row['StoryID'];
+			$StoryURL = HelpingDBMethods::GetStoryURL($StoryID);
+			$MemberName = MemberDBMethods::GetUserName($ActionBy);
+			$result = '<li style = "" class = "notification-share">
+								<span class = "bold">' . $MemberName . '</span> has	shared something with you!
+								<br/>
+								<div style = "height:30px;"><a class = "notification-share-see-it-btn" href = "' . $StoryURL . '">See It</a></div>
+					   </li';
+		}
+		
+		return $result;
+	}
+	
+	private function GetBragToFriendNotification($NID)
+	{
+		return '<div>Brag to Friend</div>';
+	}
+}
+?>

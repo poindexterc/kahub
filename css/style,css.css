@@ -1,0 +1,230 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+
+body{
+
+	padding:0;
+
+	margin:0;
+
+	background-color:#fff;
+
+	color:#000;
+
+	font-family:"Glypha LT Std", Arial, Helvetica, sans-serif;
+
+	}
+
+	
+
+div, p, h1, h2, form, img, ul{
+
+	padding:0;
+
+	margin:0;
+
+	}
+
+	
+
+.spacer{
+
+	font-size:0;
+
+	line-height:0;
+
+	clear:both;
+
+	}
+
+	
+
+/*-----------------main div start-----------*/
+
+#mainDiv{
+
+	width:851px;
+
+	margin:0;
+
+	padding:167px 0 0 0;
+
+	}
+
+	
+
+.emailForm3Bg{
+
+
+	}
+
+	
+
+.emailForm4Bg{
+
+
+	}
+
+	
+
+.opacityDiv{
+
+	width:789px;
+
+	padding:32px 0 28px 62px;
+
+
+	}
+
+	
+
+/*----------left part start-------*/
+
+
+
+#left{
+
+	width:384px;
+
+	float:left;
+
+	}
+
+	
+
+#left h2{
+
+	margin:0 0 22px 0;
+
+	text-indent:-22222px;
+
+	background:url(http://showcase.gostart.com.au/beta/images/hello.gif) no-repeat 0 0;
+
+	height:45px;
+
+	font-size:0;
+
+	line-height:0;
+
+	}
+
+	
+
+#left p{
+
+	font-size:14px;
+
+	line-height:24px;
+
+	}
+
+	
+
+/*------------right part start---------*/
+
+#right{
+
+	width:404px;
+
+	float:right;
+
+	padding:0;
+
+	}
+
+	
+
+#right form{
+
+	padding:15px 0 0 0;
+
+	}
+
+	
+
+#right form input.textBox{
+
+	background:url(http://showcase.gostart.com.au/beta/images/input_bg.png) no-repeat 0 0;
+
+	height:28px;
+
+	width:304px;
+
+	margin:0 0 11px 0;
+
+	padding:15px 0 0 15px;
+
+	border:none;
+
+	font:normal 14px "Lucida Grande", Arial, Helvetica, sans-serif;
+
+	}
+
+	
+
+#right form input.blueTextBox{
+
+	background:url(http://showcase.gostart.com.au/beta/images/blue_input_bg.png) no-repeat 0 0;
+
+	width:304px;
+
+	height:28px;
+
+	margin:0 0 11px 0;
+
+	padding:15px 0 0 15px;
+
+	border:none;
+
+	font:normal 14px "Lucida Grande", Arial, Helvetica, sans-serif;
+
+	}
+
+	
+
+.fromrelative{
+
+	position:relative;
+
+	}
+
+	
+
+.required{
+
+	background:url(http://showcase.gostart.com.au/beta/images/required.png) no-repeat 0 0;
+
+	height:13px;
+
+	width:69px;
+
+	position:absolute;
+
+	left:285px;
+
+	top:16px;
+
+	text-indent:-22222px;
+
+	}
+
+	
+
+#right form input.submit{
+
+	background:url(http://showcase.gostart.com.au/beta/images/submit.png) no-repeat 0 0;
+
+	height:32px;
+
+	width:83px;
+
+	border:none;
+
+	margin:5px 0 0 222px;
+
+	cursor:pointer;
+
+	}

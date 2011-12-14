@@ -1,0 +1,335 @@
+.iframe-class
+{
+    border:none;
+    width:300px;
+    height:200px;
+    background-color:Transparent;
+    overflow:visible;
+}
+.div-float-main
+{
+    background-color:Transparent;
+    position:absolute;
+    color:#0A0A0A;
+    font-family:Cambria;
+    height:auto;
+    overflow:visible;
+    z-index:2000;
+}
+
+.span-underline-commented-text
+{
+    border-bottom:Solid 3px #F9DB00;
+    cursor:pointer;
+}
+
+.span-hover-commented-text
+{
+    background-color:#FAE20D;
+    border:Solid 3px #FAE20D;
+    cursor:pointer;
+    -moz-border-radius: 10px; 
+    -webkit-border-radius: 10px;
+}
+
+
+/*------------------------------- Pop up Styles ---------------------------------*/
+.div-float-main-container
+{
+    display:none;
+}
+.UI-Content
+{
+    max-width: 300px;
+}
+.box-head-top
+{
+    width: auto;
+    height: auto;
+}
+
+.UI-box-content-middle
+{
+    background-color: #f9f5f2;
+    border-top: Solid 1px #cc3333;
+    border-right: Solid 1px #cc3333;
+    border-left: Solid 1px #cc3333;
+    padding: 5px;
+}
+
+.UI-box-footer-bottom
+{
+    background: url(../service/images/box-footer-bottom.png) no-repeat;
+    height: 12px;
+}
+
+.UI-Face-Image
+{
+    border: Solid 3px #333333;
+    width: 50px;
+}
+
+.UI-Share-TextBox
+{
+    display: block;
+    width: 170px;
+    height: 45px;
+    background: #fff;
+    border: 1px solid #ecd3d2;
+}
+
+.post-reply-btn
+{
+    display: inline-block;
+    background: #e2564b;
+    border: 1px solid #b93f35;
+    width: 90px;
+    height: 18px;
+    line-height: 14px;
+    color: #fff;
+    margin: 4px 0px 0px 120px;
+}
+.share-btn
+{
+    display: inline-block;
+    background: #e2564b;
+    border: none;
+    width: 65px;
+    height: 18px;
+    float: right;
+    margin-top: 4px;
+    color: #fff;
+}
+.okay-done
+{
+    display: inline-block;
+    background: #e2564b;
+    border: none;
+    text-align: center;
+    width: 173px;
+    height: 18px;
+    color: #fff;
+}
+.trust-btn
+{
+    display: inline-block;
+    color: #FFFFFF;
+    background: #e2564b;
+    border: 1px solid #b93f35;
+    padding: 3px 0;
+    margin: 3px 0;
+    text-align: center;
+    width: 54px;
+    margin-right: 68px;
+    font-weight: bold;
+}
+.trust-btn:hover
+{
+    display: inline-block;
+    background: #C0311A;
+    border: 1px solid #9E2815;
+    padding: 3px 0;
+    text-align: center;
+    width: 54px;
+    margin-right: 68px;
+}
+.trust-btn-disabled
+{
+    display: inline-block;
+    background: #e2564b;
+    border: 1px solid #9E2815;
+    padding: 3px 0;
+    margin: 3px 0;
+    text-align: center;
+    width: 54px;
+    margin-right: 68px;
+    font-weight: bold;
+    font-size:12px;
+    color: #BF4741;
+}
+.comment-wrapper
+{
+    padding: 0px 0px 5px 0px;
+    width:210px;
+}
+.comment-reply-wrapper
+{
+    border-top: Solid 1px #ecd3d2;
+    padding: 5px 0px 0px 0px;
+    width: 208px;
+}
+.comment-text
+{
+    width: 145px;
+    padding: 0px 0px 0px 5px;
+}
+.UI-Face-Image-Link
+{
+    text-decoration: none;
+    margin:2px;
+}
+.UI-Face-Image-Link:hover
+{
+    text-decoration: none;
+}
+.UI-Face-Image-Link-UserName
+{
+    font-size: 20px;
+    color: #405882;
+    text-decoration: none;
+    vertical-align: middle;
+    display:none;
+}
+.UI-Privacy-lock-Hover
+{
+    display:none;
+    width:200px;
+    height:31px;
+    background-image:url(../service/images/privacy-hover.png);
+    background-repeat:no-repeat;
+    color:#FFFFFF;
+    font-size:12px;
+    padding:4px 0px 0px 5px;
+    position:fixed;
+}
+.suggestionsBox
+{
+    margin: 0px 0px 5px 0px;
+    width: 170px;
+    background-color:#FFF;
+    /*-moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border: 1px solid #000;*/
+    color: #222222;
+    height:100px;
+}
+
+.suggestionList
+{
+    margin: 0px;
+    padding: 0px;
+}
+.suggestionList ul
+{
+    padding:0px;
+    margin:0px;
+}
+.suggestionList li
+{
+    margin: 0px 0px 0px 0px;
+    padding: 5px;
+    list-style:none;
+    cursor: pointer;
+    font-size:14px;
+    font-weight:bold;
+    border-bottom:Solid 1px Silver;
+}
+
+.suggestionList li:hover
+{
+    background-color: #659CD8;
+}
+
+
+
+
+
+
+
+
+.mb-5
+{
+    margin-bottom: 5px;
+}
+.f-w
+{
+    color: #fff;
+}
+.fl
+{
+    float: left;
+}
+.fr
+{
+    float: right;
+}
+.wrapper
+{
+    height: 100%;
+    overflow: hidden;
+}
+.cl
+{
+    clear: both;
+    font-size: 0;
+    height: 0;
+}
+.clearfix:after
+{
+    clear: both;
+    content: ' ';
+    display: block;
+    font-size: 0;
+    line-height: 0;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+.png
+{
+    /* for png ../images to fix for IE6*/
+}
+
+
+/* Alignments */
+.center
+{
+    text-align: center;
+}
+.right
+{
+    text-align: right;
+}
+.top
+{
+    vertical-align: top;
+}
+.middle
+{
+    vertical-align: middle;
+}
+.comment-text span
+{
+    font-weight: bold;
+}
+.white-box-140
+{
+    width: 100%;
+    height: 45px;
+    background: #fff;
+    border: 1px solid #ecd3d2;
+    vertical-align: middle;
+}
+.red-btn-85
+{
+    display: inline-block;
+    width: 85px;
+    height: 50px;
+    background: #bf4741;
+    border: 1px solid #ce746f;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+    padding-top: 15px;
+}
+.white-box-172
+{
+    display: inline-block;
+    width: 172px;
+    text-align: center;
+    padding: 7px 0;
+    background: #fff;
+    border: 1px solid #ecd3d2;
+    margin-bottom: 5px;
+    font-size: 10px;
+}

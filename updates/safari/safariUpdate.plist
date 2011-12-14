@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>Extension Updates</key>
+   <array>
+     <dict>
+       <key>CFBundleIdentifier</key>
+       <string>com.connichiwah.justhighlight</string>
+       <key>Developer Identifier</key>
+       <string>KJADVQ6CGH</string>
+       <key>CFBundleVersion</key>
+       <string>1.0</string>
+       <key>CFBundleShortVersionString</key>
+       <string>1.0</string>
+       <key>URL</key>
+       <string>http://www.connichiwah.com/download/safari/1.0/justHighlight_v1.safariextz</string>
+     </dict>
+   </array>
+</dict>
+</plist>

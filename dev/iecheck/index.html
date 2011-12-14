@@ -1,0 +1,268 @@
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <title>error</title>
+  
+  <script type="text/javascript"> 
+  <!--
+  var BrowserDetect = {
+  	init: function () {
+  		this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+  		this.version = this.searchVersion(navigator.userAgent)
+  			|| this.searchVersion(navigator.appVersion)
+  			|| "an unknown version";
+  		this.OS = this.searchString(this.dataOS) || "an unknown OS";
+  	},
+  	searchString: function (data) {
+  		for (var i=0;i<data.length;i++)	{
+  			var dataString = data[i].string;
+  			var dataProp = data[i].prop;
+  			this.versionSearchString = data[i].versionSearch || data[i].identity;
+  			if (dataString) {
+  				if (dataString.indexOf(data[i].subString) != -1)
+  					return data[i].identity;
+  			}
+  			else if (dataProp)
+  				return data[i].identity;
+  		}
+  	},
+  	searchVersion: function (dataString) {
+  		var index = dataString.indexOf(this.versionSearchString);
+  		if (index == -1) return;
+  		return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+  	},
+  	dataBrowser: [
+  		{
+  			string: navigator.userAgent,
+  			subString: "Chrome",
+  			identity: "Chrome"
+  		},
+  		{ 	string: navigator.userAgent,
+  			subString: "OmniWeb",
+  			versionSearch: "OmniWeb/",
+  			identity: "OmniWeb"
+  		},
+  		{
+  			string: navigator.vendor,
+  			subString: "Apple",
+  			identity: "Safari",
+  			versionSearch: "Version"
+  		},
+  		{
+  			prop: window.opera,
+  			identity: "Opera"
+  		},
+  		{
+  			string: navigator.vendor,
+  			subString: "iCab",
+  			identity: "iCab"
+  		},
+  		{
+  			string: navigator.vendor,
+  			subString: "KDE",
+  			identity: "Konqueror"
+  		},
+  		{
+  			string: navigator.userAgent,
+  			subString: "Firefox",
+  			identity: "Firefox"
+  		},
+  		{
+  			string: navigator.vendor,
+  			subString: "Camino",
+  			identity: "Camino"
+  		},
+  		{		// for newer Netscapes (6+)
+  			string: navigator.userAgent,
+  			subString: "Netscape",
+  			identity: "Netscape"
+  		},
+  		{
+  			string: navigator.userAgent,
+  			subString: "MSIE",
+  			identity: "Explorer",
+  			versionSearch: "MSIE"
+  		},
+  		{
+  			string: navigator.userAgent,
+  			subString: "Gecko",
+  			identity: "Mozilla",
+  			versionSearch: "rv"
+  		},
+  		{ 		// for older Netscapes (4-)
+  			string: navigator.userAgent,
+  			subString: "Mozilla",
+  			identity: "Netscape",
+  			versionSearch: "Mozilla"
+  		}
+  	],
+  	dataOS : [
+  		{
+  			string: navigator.platform,
+  			subString: "Win",
+  			identity: "Windows"
+  		},
+  		{
+  			string: navigator.platform,
+  			subString: "Mac",
+  			identity: "Mac"
+  		},
+  		{
+  			   string: navigator.userAgent,
+  			   subString: "iPhone",
+  			   identity: "iPhone"
+  	    },
+  		{
+  			string: navigator.platform,
+  			subString: "Linux",
+  			identity: "Linux"
+  		}
+  	]
+
+  };
+  BrowserDetect.init();
+  
+
+  // -->
+
+  </script>
+  
+    <style type="text/css" media="screen">
+    a{
+      color: #08C;
+      text-decoration: none;
+    }
+  </style>
+  <!--[if IE ]>
+<link rel="stylesheet" href="normal.css" type="text/css" media="screen" charset="utf-8"> 
+<![endif]-->
+
+  
+  <style type="text/css" media="screen and (min-width: 1071px)">
+    .barupgrade{
+      width: 100%;
+      height: 50px;
+      background-color: #F8F9DE;
+      border: 1px solid #F7F797;
+      color: #333;
+      font: 12pt "Helvetica", "Arial", sans-serif;
+      
+    }
+    #errorhead{
+      font: 20pt "Helvetica", "Arial", sans-serif;
+      font-weight: bold;
+      float: left;
+      margin-left: 5px;
+      vertical-align: middle;
+    }
+    #errorhead .error{
+      margin: 8px
+    }
+    #errorbody{
+      float: right;
+      margin: 5px 50px 10px 0px;
+    }
+    
+    #consider{
+      font: 15pt "Helvetica", "Arial", sans-serif;
+    }
+  </style>
+  <style type="text/css" media="screen and (min-width: 770px) and (max-width: 1070px)">
+    .barupgrade{
+      width: 100%;
+      height: 50px;
+      background-color: #F8F9DE;
+      border: 1px solid #F7F797;
+      color: #333;
+      font: 10.5pt "Helvetica", "Arial", sans-serif;
+    }
+    #errorhead{
+      font: 15pt "Helvetica", "Arial", sans-serif;
+      font-weight: bold;
+      float: left;
+      margin-left: 5px;
+      vertical-align: middle;
+    }
+    #errorhead .error{
+      margin: 10px
+    }
+    #errorbody{
+      float: right;
+      margin: 7px 50px 10px 0px;
+    }
+    #consider{
+      font: 13pt "Helvetica", "Arial", sans-serif;
+    }
+  </style>
+  
+  <style type="text/css" media="screen and (max-width: 769px)">
+    .barupgrade{
+      width: 100%;
+      height: 120px;
+      background-color: #F8F9DE;
+      border: 1px solid #F7F797;
+      color: #333;
+    }
+    #errorhead{
+      margin-left: 5px;
+      margin-top: 5px;
+    }
+    #errorhead .error{
+      font: 15pt "Helvetica", "Arial", sans-serif;
+      font-weight: bold;
+    }
+    #errorbody{
+      margin-left: 5px;
+      margin-top: 5px;
+      font: 12pt "Helvetica", "Arial", sans-serif;
+    }
+    
+    #consider{
+      margin-top: 5px;
+      font: 13pt "Helvetica", "Arial", sans-serif;
+    }
+    
+  </style>
+
+  
+</head>
+<body>
+<!--[if lt IE 7]>
+  <div class="barworst">
+    <div id="errorhead"><div class="error">You are using an outdated browser</div></div><div id="errorbody">You are using quite possibly the worst web browser in history. Seriously.<br><div id="consider">Upgrade to a modern browser such as <a href="http://www.apple.com/safari">Safari</a>,or <a href="http://www.google.com/chrome">Chrome</a></div></div>
+  </div>
+  </div>
+
+  <![endif]-->
+  
+  <!--[if IE 7]>
+    <div class="barworst">
+      <div id="errorhead"><div class="error">You are using an outdated browser</div></div><div id="errorbody">Your browser is not supported and is out of date.<br><div id="consider">Upgrade to a modern browser such as <a href="http://www.apple.com/safari">Safari</a>,or <a href="http://www.google.com/chrome">Chrome</a></div></div>
+    </div>
+    </div>
+
+    <![endif]-->
+    
+    
+  <!--[if gte IE 8]>
+    <div class="barworst">
+      <div id="errorhead"><div class="error">Your browser is not supported</div></div><div id="errorbody">The browser you are currently using will not give you the best connichiwah experience. <br><div id="consider">Consider switching to a better browser such as <a href="http://www.apple.com/safari">Safari</a>,or <a href="http://www.google.com/chrome">Chrome</a></div></div>
+    </div>
+    </div>
+
+    <![endif]-->
+    <div id="barupgrade">
+    <div class="barupgrade">
+      <div id="errorhead"><div class="error">Your browser is not up to date</div></div><div id="errorbody">The browser you are currently using has a new version out.<br><div id="consider"><a href="http://www.apple.com/safari/download">Upgrade to the latest version of Safari</a></div></div>
+    </div>
+    </div>
+    <script type="text/javascript" charset="utf-8">
+    
+      if(BrowserDetect.browser=="Safari" && BrowserDetect.version<5 && BrowserDetect.OS!="iPhone"){
+        document.getElementById("barupgrade").style.display = 'block';
+      } else{
+        document.getElementById("barupgrade").style.display = 'none';
+        
+      }
+      
+    </script>
+</body>

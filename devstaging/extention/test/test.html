@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Connichiwah : Test Extention</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="../css/style.css" />
+
+    <script type='text/javascript' src="../js/jquery.js"></script>
+
+    <script type='text/javascript'>
+        function wow()
+        {
+            var t = '';
+          if(window.getSelection){
+            t = window.getSelection();
+          }else if(document.getSelection){
+            t = document.getSelection();
+          }else if(document.selection){
+            t = document.selection.createRange().text;
+          }
+          var selection = window.getSelection();
+          var range = selection.getRangeAt(0);
+          if (range) 
+          {
+              var d = range.commonAncestorContainer.innerHTML ;//range.cloneContents();
+              if(!d)
+              {
+                  d = range.cloneContents();
+                  var div = document.createElement('div');
+                  div.appendChild(d);
+                  d=div.innerHTML;
+              }
+              if(d.length < 20)
+              {
+                  d = range.commonAncestorContainer.parentElement.innerHTML;
+              }
+          } 
+          $("#sel-text-area").val(d);
+        } 
+        
+        if(!window.Kolich)
+        {
+          Kolich = {};
+        }
+
+        Kolich.Selector = {};
+        Kolich.Selector.getSelected = function(){
+          var t = '';
+          if(window.getSelection){
+            t = window.getSelection();
+          }else if(document.getSelection){
+            t = document.getSelection();
+          }else if(document.selection){
+            t = document.selection.createRange().text;
+          }
+          return t;
+        }
+
+        Kolich.Selector.mouseup = function(){
+          var st = Kolich.Selector.getSelected();
+          if(st!=''){
+            //alert("You selected:\n"+st);
+            
+            $("#sel-text-area").val(st);
+          }
+        }
+
+        $(document).ready(function(){
+          //$(document).bind("mouseup", Kolich.Selector.mouseup);
+        });   
+    </script>
+
+</head>
+<body>
+    <div class="header">
+        <div class="reg-head">
+            <h1>
+                <a href="">Selection Demo</a></h1>
+            <a href="http://www.connichiwah.com/">
+                <img alt="" src="../images/website/form-logo.jpg" class="reg-logo" /></a>
+            <div class="cl">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="mainDiv">
+            <!-- Content Page Code Starts -->
+            <div class="main">
+                <div class="reg1-main">                    
+                    <div id="email-data-container" style="text-align: justify;">
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ullamcorper volutpat
+                            elit vel condimentum. Vestibulum eu facilisis leo. Morbi eleifend, nisi sit amet
+                            ultrices volutpat, metus nulla viverra sapien, id venenatis erat est eu lorem. Nunc
+                            lectus urna, pharetra a vehicula quis, luctus ac orci. Sed rhoncus adipiscing imperdiet.
+                            Integer tincidunt tristique viverra. Integer magna enim, porta vitae scelerisque
+                            in, malesuada vitae nisi. Donec sapien quam, lacinia nec blandit at, pellentesque
+                            placerat mi. Vestibulum auctor posuere metus, vel dignissim est condimentum id.
+                            Mauris arcu odio, aliquam vel pretium vitae, feugiat in nisl. Duis sodales interdum
+                            augue nec consequat. Integer ultrices ullamcorper purus quis luctus. Nunc tincidunt
+                            dictum felis, lacinia auctor nibh ornare in. Vestibulum ante ipsum primis in faucibus
+                            orci luctus et ultrices posuere cubilia Curae; Aenean iaculis, sapien in pellentesque
+                            imperdiet, lectus purus ultricies ipsum, sit amet pulvinar arcu lectus ut lacus.
+                            Duis dolor dui, malesuada a auctor vitae, placerat blandit risus. Praesent facilisis
+                            sem ut neque adipiscing sit amet aliquam lectus commodo. Sed nunc est, ullamcorper
+                            vitae convallis ac, tempor id arcu. Duis ac velit orci, at pharetra tellus.
+                        </p>
+                        <p>
+                            Proin eu diam 
+                            
+                            metus. 
+                            <label id ="labelno1">Nulla facilisi. Fusce</label>
+                             a diam 
+                             <label id ="labelno2">justo, eget ornare</label>
+                              nulla. Mauris nec 
+                              <label id ="labelno3">pretium nisl. Cum sociis</label>
+                               natoque
+                            penatibus et magnis dis parturient montes,
+                            nascetur ridiculus mus. Proin a tellus velit, id gravida risus. Nunc odio magna,
+                            posuere et ornare a, posuere in libero. Nam magna est, consectetur et pharetra vitae,
+                            ultricies ut diam. Sed dignissim, magna varius pulvinar mollis, est arcu imperdiet
+                            tellus, sit amet facilisis justo eros at lectus. Nunc ut nulla elit, vitae facilisis
+                            quam. Sed varius magna gravida lectus bibendum sed vehicula neque cursus. Suspendisse
+                            in ligula id nunc iaculis fermentum id eu erat. Mauris vel augue eget ipsum aliquet
+                            tempor sit amet ut magna. <span>Praesent condimentum elit nec neque hendrerit condimentum
+                            vitae ut purus.</span>
+                        </p>
+                        <p>
+                            Ut in nibh elit. Maecenas leo nunc, tempor in semper quis, fringilla id quam. Integer
+                            imperdiet suscipit vehicula. Etiam euismod pretium turpis, eget rutrum elit commodo
+                            nec. Curabitur hendrerit feugiat laoreet. Mauris et mi erat. In rhoncus justo id
+                            ligula faucibus in semper diam laoreet. Proin quam mi, feugiat in ultricies vel,
+                            pharetra ac eros. Phasellus vel ligula mauris, nec elementum urna. Suspendisse eget
+                            enim vel dolor consectetur volutpat. Sed tincidunt semper justo, et consequat odio
+                            scelerisque ut. Morbi condimentum feugiat lorem sit amet fringilla. Duis aliquam
+                            ullamcorper diam, et porta augue posuere quis. Quisque arcu mi, tempus quis gravida
+                            quis, tristique vel est. Donec justo arcu, tincidunt sed eleifend ac, tincidunt
+                            eu urna. Proin et erat purus, id pharetra risus. Etiam tellus libero, fringilla
+                            ut egestas in, fermentum nec ipsum. Fusce mauris mi, molestie et ornare a, lobortis
+                            sit amet felis. Nam rutrum tristique erat eu sodales. Nam molestie odio ut nulla
+                            vehicula fringilla.
+                        </p>
+                        <p>
+                            Pellentesque tristique eros non orci vulputate blandit. Cras luctus, dolor nec mattis
+                            tempus, felis elit luctus mi, in pretium turpis risus id dui. Nullam sit amet lectus
+                            odio, sit amet sollicitudin elit. Vestibulum blandit leo eu ante dignissim eleifend.
+                            Vestibulum magna elit, iaculis quis lobortis id, vulputate eget arcu. Phasellus
+                            at imperdiet est. Vestibulum blandit faucibus libero, dapibus pretium tortor tristique
+                            eu. Vestibulum ut feugiat nisl. Integer viverra vehicula augue nec tempus. Fusce
+                            in risus eu massa fermentum scelerisque sit amet malesuada eros. In vehicula risus
+                            at leo euismod dictum. Nullam molestie mollis eros, a posuere tortor lobortis et.
+                        </p>
+                        <p>
+                        Phasellus viverra consectetur pulvinar. Etiam dolor arcu, commodo in dignissim vitae,
+                        pretium ac velit. Ut euismod nulla at ante tincidunt a semper ligula suscipit. Donec
+                        tincidunt, felis vel feugiat eleifend, sapien est vulputate est, eget gravida ligula
+                        quam non dolor. Donec blandit nulla id arcu ornare non congue mauris pellentesque.
+                        Quisque rhoncus nibh non justo tristique ut tincidunt eros pharetra. Duis et eros
+                        urna. Nunc tellus leo, placerat eget pharetra vitae, viverra non lorem. Donec est
+                        nulla, euismod rhoncus congue sed, interdum in massa. Mauris blandit dolor sit amet
+                        elit ultricies non bibendum arcu mollis. Duis eros nibh, suscipit lacinia vulputate
+                        ac, iaculis nec felis. In magna augue, iaculis pretium interdum et, rutrum ut lectus.
+                        Morbi sagittis mollis nibh eu scelerisque.
+                    </div>
+                    <input type="button" value="" class="reg-save" onclick="wow()" />
+                    <textarea id="sel-text-area" style="width: 95%; height: 500px; margin: 10px;"></textarea>
+                </div>
+            </div>
+            <!-- Content Page Code Ends -->
+            <div class="clear">
+            </div>
+        </div>
+        <!--footer area starts here -->
+        <div class="footer">
+        </div>
+        <!--footer ends-->
+    </div>
+</body>
+</html>

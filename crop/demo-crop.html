@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+	<title>UvumiTools Crop 2.0.0</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<script type="text/javascript" src="js/mootools-for-crop.js"> </script>
+	<script type="text/javascript" src="js/UvumiCrop.js"> </script>
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="css/uvumi-crop.css" />
+	<style type="text/css">
+		body,html{
+			background-color:#333;
+			margin:0;
+			padding:0;
+			font-family:Trebuchet MS, Helvetica, sans-serif;
+		}
+		
+		hr{
+			margin:20px 0;
+		}
+		
+		#main{
+			margin:5%;
+			position:relative;
+			overflow:auto;
+			color:#aaa;
+			padding:20px;
+			border:1px solid #888;
+			background-color:#000;
+			text-align:center;
+		}
+
+		#resize_coords{
+			width:300px;
+		}
+		
+		#previewExample3{
+			margin:10px;
+		}
+
+		.yellowSelection{
+			border: 2px dotted #FFB82F;
+		}
+
+		.blueMask{
+			background-color:#00f;
+			cursor:pointer;
+		}
+	</style>
+	<script type="text/javascript">
+		exampleCropper1 = new uvumiCropper('example1',{
+			coordinates:true,
+			preview:true,
+			downloadButton:false,
+			keepRatio:true,
+			ThumbnailType:"Thumbnail",
+			expandtomaxonload:true,
+			saveButton:true,
+			mini:{
+			x:200,
+			y:100
+			}
+		});
+	</script>
+</head>
+<body>
+	<div id="main">
+		<div>
+			<p>
+				Click and Drag: Move Resizer to Desired Position<br/>
+				Doubleclick on Resizer: Maximize Selection
+			</p>
+			<p>
+				<img id="example1" src="/images/articles/2/Original/3328187438_f85a9a7b24_o.jpg" alt="cropping test"/>
+			</p>
+		</div>
+	</div>
+</body>
+</html>

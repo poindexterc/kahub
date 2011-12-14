@@ -1,0 +1,1 @@
+905a1a9247efbb2be7684883591cd7baa:2:{s:16:"oxInvocationTags";a:1:{s:14:"isDependedOnBy";a:1:{i:0;s:13:"openXWorkflow";}}s:13:"openXWorkflow";a:1:{s:9:"dependsOn";a:1:{s:16:"oxInvocationTags";s:5:"1.0.5";}}}

@@ -1,0 +1,91 @@
+[13-Nov-2010 00:16:49] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/webService/gen.php on line 307
+[13-Nov-2010 00:17:02] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/webService/gen.php on line 307
+[14-Nov-2010 16:04:20] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/webService/gen.php on line 307
+[23-Nov-2010 16:00:39] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 16:01:40] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 16:02:52] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 18:00:10] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 18:01:25] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 18:06:01] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 18:08:53] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 18:08:53] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 18:54:28] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 19:02:19] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 19:37:51] PHP Fatal error:  Class 'StoryRanking' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 356
+[23-Nov-2010 20:01:00] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/webService/gen.php on line 307
+[24-Nov-2010 14:09:16] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/webService/gen.php on line 307
+[25-Nov-2010 13:30:28] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/webService/gen.php on line 317
+[29-Nov-2010 09:25:13] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/webService/gen.php on line 317
+[30-Nov-2010 09:20:39] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/webService/gen.php on line 317
+[06-Dec-2010 01:30:05] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/webService/gen.php on line 317
+[12-Dec-2010 16:44:48] PHP Fatal error:  Class 'BadgeMethods' not found in /home/admin5/public_html/webService/gen.php on line 317
+[13-Jan-2011 16:14:37] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/webService/gen.php on line 826
+[13-Jan-2011 16:14:43] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/webService/gen.php on line 826
+[13-Jan-2011 16:14:45] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/webService/gen.php on line 826
+[05-Feb-2011 15:03:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[05-Feb-2011 15:03:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[05-Feb-2011 15:25:47] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:25:53] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:26:46] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:26:56] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:27:14] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:27:16] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:27:16] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:27:19] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:27:20] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:27:21] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:27:21] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:27:22] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:27:59] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:28:01] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:28:09] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:28:11] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:28:14] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:29:15] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:29:19] PHP Parse error:  syntax error, unexpected '.' in /home/admin5/public_html/webService/gen.php on line 337
+[05-Feb-2011 15:33:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[05-Feb-2011 15:33:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[05-Feb-2011 15:34:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[05-Feb-2011 15:34:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[05-Feb-2011 15:42:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[05-Feb-2011 15:42:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[05-Feb-2011 15:51:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[05-Feb-2011 15:51:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[06-Feb-2011 13:17:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[06-Feb-2011 13:17:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 118
+[06-Feb-2011 13:18:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[06-Feb-2011 13:18:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[07-Feb-2011 13:48:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[07-Feb-2011 13:48:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[07-Feb-2011 14:01:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[07-Feb-2011 14:01:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:11:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:11:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:11:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:11:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:12:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:12:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:16:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:16:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:18:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:18:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:21:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[08-Feb-2011 21:21:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[09-Feb-2011 01:03:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[09-Feb-2011 01:03:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[09-Feb-2011 18:39:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'admin5'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[09-Feb-2011 18:39:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/admin5/public_html/AppCode/BadgeMethods.php on line 119
+[06-Mar-2011 14:54:35] PHP Warning:  Missing argument 4 for myWebservice::GetMoreStories(), called in /home/admin5/public_html/webService/gen.php on line 69 and defined in /home/admin5/public_html/webService/gen.php on line 572
+[07-Mar-2011 09:42:43] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_mysql.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[07-Mar-2011 17:44:09] PHP Fatal error:  Out of memory (allocated 1048576) (tried to allocate 4864 bytes) in /home/admin5/public_html/AppCode/Notifications.php on line 201
+[11-May-2011 22:44:35] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 807
+[11-May-2011 22:45:26] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 807
+[18-May-2011 15:28:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[18-May-2011 15:29:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[18-May-2011 15:29:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[18-May-2011 18:11:32] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/webService/gen.php on line 303
+[18-May-2011 19:39:41] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/webService/gen.php on line 303
+[18-May-2011 19:41:21] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/webService/gen.php on line 303
+[18-May-2011 19:41:22] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/webService/gen.php on line 303
+[18-May-2011 19:41:25] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/webService/gen.php on line 303
+[20-Jul-2011 14:57:39] PHP Parse error:  syntax error, unexpected '}' in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1022

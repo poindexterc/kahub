@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta name="description" content="kahub | Read news with friends. Discover news with the world."/>
+    <title>kahub Slide Deck</title>
+    <script type="text/javascript" language="javascript">
+//      <![CDATA[
+            var images = new Array (22);
+            images[0] = "kahubslidedeck.html_files/kahubslidedeck.001.png";
+            images[1] = "kahubslidedeck.html_files/kahubslidedeck.002.png";
+            images[2] = "kahubslidedeck.html_files/kahubslidedeck.003.png";
+            images[3] = "kahubslidedeck.html_files/kahubslidedeck.004.png";
+            images[4] = "kahubslidedeck.html_files/kahubslidedeck.005.png";
+            images[5] = "kahubslidedeck.html_files/kahubslidedeck.006.png";
+            images[6] = "kahubslidedeck.html_files/kahubslidedeck.007.png";
+            images[7] = "kahubslidedeck.html_files/kahubslidedeck.008.png";
+            images[8] = "kahubslidedeck.html_files/kahubslidedeck.009.png";
+            images[9] = "kahubslidedeck.html_files/kahubslidedeck.010.png";
+            images[10] = "kahubslidedeck.html_files/kahubslidedeck.011.png";
+            images[11] = "kahubslidedeck.html_files/kahubslidedeck.012.png";
+            images[12] = "kahubslidedeck.html_files/kahubslidedeck.013.png";
+            images[13] = "kahubslidedeck.html_files/kahubslidedeck.014.png";
+            images[14] = "kahubslidedeck.html_files/kahubslidedeck.015.png";
+            images[15] = "kahubslidedeck.html_files/kahubslidedeck.016.png";
+            images[16] = "kahubslidedeck.html_files/kahubslidedeck.017.png";
+            images[17] = "kahubslidedeck.html_files/kahubslidedeck.018.png";
+            images[18] = "kahubslidedeck.html_files/kahubslidedeck.019.png";
+            images[19] = "kahubslidedeck.html_files/kahubslidedeck.020.png";
+            images[20] = "kahubslidedeck.html_files/kahubslidedeck.021.png";
+            images[21] = "kahubslidedeck.html_files/kahubslidedeck.022.png";
+            var index = 0;
+            function WindowLoaded(evt)
+            {
+                document.body.onselectstart = function () { return false; };
+            }
+            function Step(i)
+            {
+                GoTo(index + i)
+            }
+            function GoTo(newIndex)
+            {
+                if(newIndex >= 0 && newIndex < images.length)
+                {
+                    index = newIndex;
+                    document.Slideshow.src = images[index];
+                }
+            }
+//      ]]>
+    </script>
+</head>
+<body bgcolor="black" onload='WindowLoaded(event);'>
+    <p align="center">
+        <br/>
+        <br/>
+        <img name="Slideshow" alt="" src="kahubslidedeck.html_files/kahubslidedeck.001.png" onclick="Step(1)"/>
+        <br/>
+        <br/>
+        <input type="image" src="kahubslidedeck.html_files/home.png" onclick="GoTo(0)"/>
+        &nbsp;&nbsp;&nbsp;
+        <input type="image" src="kahubslidedeck.html_files/prev.png" onclick="Step(-1)"/>
+        <input type="image" src="kahubslidedeck.html_files/next.png" onclick="Step(1)"/>
+    </p>
+</body>
+</html>

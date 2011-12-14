@@ -1,0 +1,2 @@
+[06-Oct-2010 13:18:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 21
+[06-Oct-2010 13:18:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 21

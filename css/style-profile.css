@@ -1,0 +1,779 @@
+﻿
+
+#button {
+	padding-top: 5px;
+	background-color: #b82525;
+	color: #ffffff;
+	border-style: solid;
+	border-bottom-color: #fff;
+	border-bottom-width: 1px;
+	border-color: #3d3b3d;
+	border-top-width: 0;
+	float: left;
+	border-right-width: 0;
+	border-left-width: 0;
+	margin-top: 5px;
+	margin-left: 310px;
+}
+
+div.main-content {
+	border-style: solid;
+	border-color: #787878;
+	border-top-width: 0;
+	border-right-width: 0;
+	border-bottom-width: 0;
+	border-left-width: 2px;
+	height: 100%;
+	padding: 5px;
+}
+
+div.profile-friends-title {
+	margin-top: 100px;
+	font-size: 25px;
+	font-weight: normal;
+	font-family: "Droid Sans";
+	border-style: solid;
+	border-color: #d9d9d9;
+	border-bottom-width: 1px;
+}
+
+ul.friends li {
+	list-style-type: none;
+	padding: 0;
+	float: left;
+	margin-top: 0;
+	width: 90px;
+	padding-left: 4px;
+	border-style: solid;
+	border-color: #dbdbdb;
+	border-left-width: 1px;
+	height: 200px;
+	padding-right: 10px;
+	margin-right: 0;
+}
+
+ul.friends li img {
+	padding: 5px;
+	margin-top: 0;
+	margin-left: 0;
+	background-color: #666666;
+	margin: 1px;
+	background: #fff;
+	border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	box-shadow: 0 1px 3px rgba(0,0,0,.2), 0 1px 0 rgba(0,0,0,.1);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.2), 0 1px 0 rgba(0,0,0,.1);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.2), 0 1px 0 rgba(0,0,0,.1);
+	padding-top: 4px;
+	padding-bottom: 13px;
+	padding-left: 4px;
+	padding-right: 4px;
+	margin-right: 5px;
+}
+
+ul.friends li p {
+	text-transform: capitalize;
+	text-align: center;
+}
+
+div.f-l-name span {
+	text-transform: capitalize;
+}
+
+
+
+div.profile-badges-title {
+	margin-top: 220px;
+	font-size: 25px;
+	font-weight: normal;
+	font-family: "Droid Sans";
+	border-style: solid;
+	border-color: #d9d9d9;
+	border-bottom-width: 1px;
+}
+
+div.main-content {
+	padding-bottom: 100px;
+}
+
+p.start-fresh {
+	font-size: 18px;
+	padding-top: 12px;
+	padding-bottom: 0;
+}
+
+p.it-free {
+	margin-top: -12px;
+	font-size: 16px;
+	color: #3b3b3b;
+}
+
+span.register-label {
+	font-size: 16px;
+	color: #3b3b3b;
+}
+
+div.form-right-textfeld select {
+	font-size: 19px;
+}
+
+div.form-right h1 {
+	color: #3b3b3b;
+}
+
+div.form-right-textfeld label {
+	color: #3b3b3b;
+}
+
+input.form-right-textfeld {
+	color: #2e2d2e;
+}
+
+div.recently-shared li {
+	font-size: 14px;
+}
+
+ul.recents li {
+	border-style: solid;
+	border-color: #dbdbdb;
+	border-bottom-width: 1px;
+	width: 405px;
+}
+
+div.recently-shared p {
+	color: #424242;
+}
+
+p.onconn {
+	font-size: 30px;
+	margin-top: -16px;
+}
+
+p.js {
+	font-size: 40px;
+}
+
+p.justshared {
+	font-size: 45px;
+	border-style: solid;
+	border-color: #b3b3b3;
+	border-top-width: 1px;
+}
+
+img.story-image {
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 20px;
+}
+
+p.heavy a {
+	float: left;
+	color: #48669e;
+}
+
+ul.profile-stories li {
+	border-style: solid;
+	border-color: #b3b3b3;
+	border-top-width: 1px;
+	padding-top: 4px;
+}
+
+li h7 a {
+	color: #3E5681;
+	font-family: 'Droid Sans';
+	font-weight: normal;
+}
+
+img.story-image {
+	padding: 5px;
+	margin-top: 0;
+	margin-left: 0;
+	background-color: #666666;
+	margin: 1px;
+	background: #fff;
+	border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	box-shadow: 0 1px 3px rgba(0,0,0,.2), 0 1px 0 rgba(0,0,0,.1);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.2), 0 1px 0 rgba(0,0,0,.1);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.2), 0 1px 0 rgba(0,0,0,.1);
+	padding-top: 4px;
+	padding-left: 4px;
+	padding-right: 4px;
+	margin-right: 5px;
+	padding-bottom: 13px;
+	margin-bottom: 17px;
+}
+
+div.profile-latest {
+	text-transform: uppercase;
+	margin-top: 20px;
+	font-size: 27px;
+	font-family: 'Droid Sans';
+	font-weight: normal;
+}
+
+
+
+
+li a h7 {
+	color: #3E5681;
+	font-family: 'Droid Sans';
+	text-transform: capitalize;
+}
+
+span.big-name {
+	text-transform: capitalize;
+}
+
+ul.trusts li {
+	padding: 0;
+	float: left;
+	display: block;
+}
+
+span.big-name {
+	color: #1a1a1a;
+}
+
+span.profile-justsaid span {
+	font-family: 'Droid Sans';
+	font-weight: normal;
+	color: #616161;
+}
+
+div.main-content {
+	border-style: none;
+	float: left;
+	width: 814px;
+	background-color: #fff;
+	margin-left: -52px;
+	padding: 5px;
+	padding-left: 17px;
+	padding-top: 8px;
+}
+
+span.profile-title a {
+	color: #5370a6;
+}
+
+li a p {
+	color: #5370a6;
+	font-size: 14px;
+}
+
+span.profile-justsaid {
+	font-family: 'Droid Sans';
+	font-weight: normal;
+	color: #d6d6d6;
+	font-size: 18px;
+}
+
+p.heavy a {
+	width: 740px;
+}
+
+li a h7 {
+	font-size: 18px;
+}
+
+div.profile-friends-title {
+	color: #3b3b3b;
+}
+
+div.profile-badges-title {
+	color: #3b3b3b;
+}
+
+div.profile-latest {
+	color: #3b3b3b;
+}
+
+div.footer {
+	margin-left: -50px;
+	width: 827px;
+}
+
+div.trust {
+	color: #666666;
+	border-style: solid;
+	border-top-width: 1px;
+	border-color: #dbdbdb;
+	margin-top: 8px;
+	padding-top: 4px;
+}
+
+span.nothing-name {
+	font-family: 'Droid Sans';
+	font-weight: bold;
+	color: #292929;
+}
+
+
+div.nothing {
+	background-color: #fcfcb3;
+	border-style: solid;
+	border-color: #dce065;
+	border-width: 1px;
+	padding: 2px;
+	font-size: 15px;
+	font-family: 'Droid Sans';
+	font-weight: normal;
+	color: #474747;
+}
+
+div.trust {
+	font-family: 'Droid Sans';
+	font-weight: normal;
+}
+span.nothing-name {
+	color: #333333 !important;
+}
+
+div.nothing {
+	margin-top: 20px;
+	margin-left: 215px;
+	width: 550px;
+}
+
+div.main-content {
+	padding-bottom: 100px;
+}
+
+div.nothing {
+	padding: 10px;
+}
+
+
+
+div.main-content {
+	border-style: solid;
+	border-color: #e0e0e0;
+	border-width: 1px;
+}
+.btn-add-prof{
+	font-size: 14px;
+	padding: 5px 10px 6px;
+	background-color: #749a02;
+	background: #F15A24;
+	display: inline-block;
+	color: #222;
+	text-decoration: none;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	cursor: pointer;
+	border: 0px;
+	font-family: 'Droid Sans';
+	font-weight: normal;
+}
+
+
+.btn-add{
+	font-size: 14px;
+	padding: 5px 10px 6px;
+	background-color: #749a02;
+	background: #F3F3F3 url("http://www.kahub.com/images/website/overlay.png") repeat-x;
+	display: inline-block;
+	color: #222;
+	text-decoration: none;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	cursor: pointer;
+	border: 0px;
+	font-family: 'Droid Sans';
+	font-weight: normal;
+}
+.btn-added{
+	font-size: 14px;
+	padding: 5px 10px 6px;
+	background: #F3F3F3 url("http://www.kahub.com/images/website/overlay.png") repeat-x;
+	display: inline-block;
+	color: #EAEAEA;
+	text-decoration: none;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	position: relative;
+	cursor: pointer;
+	border: 0px;
+	font-family: 'Droid Sans';
+	font-weight: normal;
+}
+ul.friends li {
+	border-style: none;
+	margin-left: 10px;
+}
+
+span.addsource {
+	height: 0;
+	width: 200px;
+}
+
+input.btn-add-prof {
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+input.btn-add {
+	width: 100px;
+	margin-top: 7px;
+}
+
+li a p {
+	width: 100px;
+	margin-top: 4px;
+}
+
+div.big-name {
+	text-transform: capitalize;
+}
+
+input.btn-add-prof {
+	margin-right: 30px;
+}
+
+span.addsource {
+	float: inherit;
+	display: inline-block;
+}
+
+span.addsource {
+	height: 50px;
+	float: right;
+}
+
+span.addsource {
+	float: right;
+}
+
+input.btn-add-prof {
+	font-size: 18px;
+	color: #fff;
+	background-image: url("http://www.connichiwah.com/images/website/plus.png");
+	background-position-x: 6px;
+	background-position-y: 7px;
+	background-repeat: no-repeat;
+}
+
+
+div.profile-badges-title a {
+	color: #3E5681;
+}
+
+div.profile-friends-title a {
+	color: #3E5681;
+}
+
+div.friendsbadges {
+	font-size: 12px !important;
+}
+p.heavy a {
+    margin-top: -6px;
+}
+
+div.else.hub {
+    margin-top: -17px;
+}
+
+ul.profile-stories li {
+    padding-top: 9px;
+    margin-bottom: 2px;
+}
+div.follower-count {
+    font-size: 17px;
+    font-weight: normal;
+    text-transform: none;
+}
+
+div.big-name {
+    text-transform: none;
+}
+
+
+
+div.main-content {
+    margin-left: 0;
+}
+
+div.officialSite {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+div.noStories {
+    border-style: dotted;
+    border-color: #c2c2c2;
+    border-width: 2px;
+    padding: 10px;
+    margin-top: 19px;
+    text-align: center;
+    font-size: 14px;
+    color: #787878;
+    width: 750px;
+    margin-left: 13px;
+}
+
+div.main-content {
+    -moz-border-radius-topleft: 0px !important;
+    -moz-border-radius-topright: 0px !important;
+    -moz-border-radius-bottomright: 5px !important;
+    -moz-border-radius-bottomleft: 5px !important;
+    -webkit-border-radius: 0px 0px 5px 5px !important;
+    border-radius: 0px 0px 5px 5px !important;
+    -moz-box-shadow: 0 2px 2px rgba(0,0,0,0.2) !important;
+    -webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.2) !important;
+    border-style: solid !important;
+    border-width: 10px !important;
+}
+div.showcasePhoto img {
+    width: 400px;
+}
+
+li.profile-stories {
+    float: left;
+    width: 400px;
+    margin-right: 7px;
+}
+
+div.placeholderImg.phub img {
+    width: 400px;
+    margin-left: 10px;
+}
+
+p.playVid.phub {
+    margin-left: 180px;
+    margin-top: 63px;
+}
+
+div.videoInline.phub {
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 0px;
+    -moz-border-radius-bottomleft: 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+div.placeholderImg.phub {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -khtml-border-radius: 5px;
+}
+
+div.placeholderImg.phub img {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    width: 506px;
+    margin-top: 0;
+    margin-left: 4px;
+}
+
+p.playVid.phub {
+    margin-left: 211px;
+    margin-top: 69px;
+}
+
+div.comment {
+    margin-bottom: 30px;
+    width: 427px;
+    margin-left: 34px;
+}
+
+div.lateststorydescrip {
+    overflow: hidden;
+}
+
+div.storyText.phubpage {
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+p.heavy.phub a {
+    width: 500px;
+    margin-bottom: 12px;
+}
+
+
+
+div.latestWrap {
+    padding: 3px;
+    _padding-bottom: 0;
+    background: white;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -webkit-box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    -moz-box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    border: 1px solid;
+    border-color: #E5E5E5 #DBDBDB;
+    width: 500px;
+    background-color: #fffdeb;
+    float: right;
+    margin-right: 6px;
+    margin-bottom: 30px;
+}
+
+li.profile-stories.phub {
+    padding: 3px;
+    _padding-bottom: 0;
+    background: white;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -webkit-box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    -moz-box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    border: 1px solid;
+    border-color: #E5E5E5 #DBDBDB;
+    width: 500px;
+    float: right;
+}
+
+div.handle {
+    font-style: italic;
+    font-family: 'Droid Serif';
+    font-weight: normal;
+    font-size: 17px;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+}
+
+div.profile-pic.phub img {
+    margin-bottom: 0;
+    border-style: none;
+    width: 229px;
+    margin-left: -4px;
+    margin-top: -4px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 0px;
+    -moz-border-radius-bottomleft: 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+div.headline.edit_area {
+    width: 202px;
+    text-align: center;
+}
+
+li.followingTopic {
+    width: 200px;
+    list-style-type: none;
+    padding-left: 5px;
+    border-style: solid;
+    border-color: #ebebeb;
+    border-bottom-width: 1px;
+    padding-top: 5px;
+    padding-bottom: 29px;
+}
+
+li.followingTopic a p {
+    float: left;
+}
+
+#sideWrapperphub {
+    position: fixed;
+    width: 221px;
+    padding: 3px;
+    _padding-bottom: 0;
+    background: white;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -webkit-box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    -moz-box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    border: 1px solid;
+    border-color: #E5E5E5 #DBDBDB;
+    font-weight: bold;
+    font-size: 21px;
+}
+
+li.rank-1.rs.noLater {
+}
+
+div.side-bar-wrap {
+}
+
+#sideName {
+    text-align: center;
+}
+
+div.headline {
+    font-size: 12px;
+    text-align: center;
+}
+
+div.interests {
+    width: 200px;
+}
+
+li.profile-stories.phub2 {
+    padding: 3px;
+    padding-top: 0;
+    padding-bottom: 20px;
+    background: white;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -webkit-box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    -moz-box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    border: 1px solid;
+    border-top-color: #E5E5E5;
+    border-right-color: #DBDBDB;
+    border-bottom-color: #D2D2D2;
+    border-left-color: #DBDBDB;
+    margin-bottom: 20px;
+    width: 500px;
+    float: right;
+}
+
+div.followerspic {
+    padding: 3px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -webkit-box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    -moz-box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    box-shadow: rgba(0,0,0,0.398438) 0 1px 3px;
+    border: 1px solid;
+    border-top-color: #E5E5E5;
+    border-right-color: #DBDBDB;
+    border-bottom-color: #D2D2D2;
+    border-left-color: #DBDBDB;
+    margin-bottom: 20px;
+    float: right;
+    background-color: #ffffff;
+    height: 181px;
+    padding-left: 112px;
+}
+
+

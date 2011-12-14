@@ -1,0 +1,34 @@
+[10-Jan-2011 18:38:08] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:38:08] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:38:08] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:38:50] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:38:50] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:38:50] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:38:55] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:38:55] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:38:55] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:39:07] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:39:07] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:39:07] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin5/public_html/AppCode/FBConnect/example.php on line 3
+[10-Jan-2011 18:40:17] PHP Fatal error:  Uncaught OAuthException: Invalid OAuth access token signature.
+  thrown in /home/admin5/public_html/AppCode/FBConnect/src/facebook.php on line 543
+[10-Jan-2011 18:41:56] Got invalid session signature in cookie.
+[10-Jan-2011 18:41:56] PHP Fatal error:  Uncaught OAuthException: Invalid OAuth access token signature.
+  thrown in /home/admin5/public_html/AppCode/FBConnect/src/facebook.php on line 543
+[10-Jan-2011 18:42:06] Got invalid session signature in cookie.
+[10-Jan-2011 18:42:06] PHP Fatal error:  Uncaught OAuthException: Invalid OAuth access token signature.
+  thrown in /home/admin5/public_html/AppCode/FBConnect/src/facebook.php on line 543
+[10-Jan-2011 18:42:52] Got invalid session signature in cookie.
+[10-Jan-2011 18:42:52] PHP Fatal error:  Uncaught OAuthException: Invalid OAuth access token signature.
+  thrown in /home/admin5/public_html/AppCode/FBConnect/src/facebook.php on line 543
+[10-Jan-2011 18:43:00] Got invalid session signature in cookie.
+[10-Jan-2011 18:43:00] PHP Fatal error:  Uncaught OAuthException: Invalid OAuth access token signature.
+  thrown in /home/admin5/public_html/AppCode/FBConnect/src/facebook.php on line 543
+[17-Mar-2011 13:01:26] PHP Fatal error:  Uncaught OAuthException: Invalid OAuth access token signature.
+  thrown in /home/admin5/public_html/AppCode/FBConnect/src/facebook.php on line 543
+[17-Mar-2011 13:01:35] PHP Fatal error:  Uncaught OAuthException: Invalid OAuth access token signature.
+  thrown in /home/admin5/public_html/AppCode/FBConnect/src/facebook.php on line 543
+[17-Mar-2011 13:01:52] PHP Fatal error:  Uncaught OAuthException: Invalid OAuth access token signature.
+  thrown in /home/admin5/public_html/AppCode/FBConnect/src/facebook.php on line 543
+[17-Mar-2011 13:08:25] PHP Fatal error:  Uncaught OAuthException: Invalid OAuth access token signature.
+  thrown in /home/admin5/public_html/AppCode/FBConnect/src/facebook.php on line 543

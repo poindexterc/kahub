@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='fbepmnbdogmffpdkbgfpceeegceohbci'>
+    <updatecheck codebase='http://www.connichiwah.com/download/chrome/1.0.0.1/justHighlight_v1.0.0.1.crx' version='1.0.0.1' />
+  </app>
+</gupdate>

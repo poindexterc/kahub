@@ -1,0 +1,67 @@
+﻿<?xml version="1.0"?>
+<definitions name="ConnichiwahAdministrationService" targetNamespace="http://connichiwah.com/services/ConnichiwahAdministrationService.wsdl"
+    xmlns:tns="http://connichiwah.com/services/ConnichiwahAdministrationService.wsdl"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+    xmlns="http://schemas.xmlsoap.org/wsdl/">
+
+    <message name="PassKey">
+        <part name="PassKeyString" type="xsd:string"/>
+    </message>
+    <message name="BadgeID">
+        <part name="BadgeIDString" type="xsd:string"/>
+    </message>
+    <message name="GetReturnResult">
+        <part name="result" type="xsd:string"/>
+    </message>
+
+    <portType name="ConnichiwahAdministrationServiceProvider">
+        <operation name="GetListOfBadgesToUpdate">
+            <input message="tns:PassKey"/>
+            <output message="tns:GetReturnResult"/>
+        </operation>
+        <operation name="UpdateBadge">
+            <input message="tns:PassKey"/>
+            <output message="tns:GetReturnResult"/>
+        </operation>
+    </portType>
+
+    <binding name="ConnichiwahAdministrationServiceSoapBinding"
+      type="tns:ConnichiwahAdministrationServiceProvider">
+        <soap:binding style="rpc"
+         transport="http://schemas.xmlsoap.org/soap/http" />
+        <operation name="GetListOfBadgesToUpdate">
+            <soap:operation
+              soapAction="http://connichiwah.com/services/GetListOfBadgesToUpdate"/>
+            <input>
+                <soap:body use="encoded"
+                            namespace="http://connichiwah.com/GetListOfBadgesToUpdate"
+                            encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+            </input>
+            <output>
+                <soap:body use="encoded"
+                            namespace="http://connichiwah.com/GetListOfBadgesToUpdate"
+                            encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+            </output>
+        </operation>
+        <operation name="UpdateBadge">
+            <soap:operation
+              soapAction="http://connichiwah.com/services/UpdateBadge"/>
+            <input>
+                <soap:body use="encoded"
+                            namespace="http://connichiwah.com/UpdateBadge"
+                            encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+            </input>
+            <output>
+                <soap:body use="encoded"
+                            namespace="http://connichiwah.com/UpdateBadge"
+                            encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+            </output>
+        </operation>
+    </binding>
+    <service name="ConnichiwahAdministrationWebService">
+        <port name="ConnichiwahAdministrationServiceProviderPort" binding="tns:ConnichiwahAdministrationServiceSoapBinding">
+            <soap:address location="http://www.connichiwah.com/webService/ConnichiwahAdministrationService.php" />
+        </port>
+    </service>
+</definitions>

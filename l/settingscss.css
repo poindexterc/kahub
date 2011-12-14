@@ -1,0 +1,372 @@
+/* 
+CSS3 Accordion Experiment
+Date: 25th June 2009
+Author: Paul Hayes
+*/
+ 
+.accordion {
+	padding-left: 0;
+	margin: 2em auto;
+}
+
+.accordion h2 {
+	margin: 12px 0;
+}
+ 
+.accordion .section {
+ 	border-bottom: 1px solid #ccc;
+	padding: 0 1em;
+}
+ 
+.accordion h3 a {
+	display: block;
+	font-weight: normal;
+	padding: 1em 0;
+	
+}
+
+.accordion h3 a:hover {
+	text-decoration: none;
+}
+ 
+.accordion h3 + div {
+	height: 0;
+	overflow: hidden;
+	-webkit-transition: height .3s ease-in;
+	-moz-transition: height .3s ease-in;
+	-o-transition: height .3s ease-in;
+	transition: height .3s ease-in;}
+
+.accordion :target h3 a {
+	text-decoration: none;
+	color: #C1272D;
+}
+
+.accordion :target h3 + div {
+	height: 175px;
+	overflow-x: hidden; 
+	overflow-y: auto;
+}
+
+.accordion .section.large:target h3 + div {
+	overflow: auto;
+}
+
+div.section h3 a {
+	font-weight: normal;
+	text-decoration: none;
+	color: #4a4a4a;
+	font-size: 16pt;
+}
+
+div.section div p {
+	font-size: 12pt;
+}
+
+#registerform fieldset li {
+	list-style-type: none;
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-color: #d4d4d4;
+	font-size: 12pt;
+	padding-right: 0;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 0;
+	
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+}
+
+#registerform fieldset li:hover {
+	background: rgba(51, 51, 51, 0.1);
+}
+
+#removefriends fieldset li {
+	list-style-type: none;
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-color: #d4d4d4;
+	font-size: 12pt;
+	padding-right: 0;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 0;
+	
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+}
+
+#removefriends fieldset li:hover {
+	background: rgba(51, 51, 51, 0.1);
+}
+
+div.choosedeactivate li{
+	list-style-type: none;
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-color: #d4d4d4;
+	font-size: 12pt;
+	padding-right: 0;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 0;
+	
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+}
+
+div.choosedeactivate li:hover{
+	background: rgba(51, 51, 51, 0.1);
+}
+
+#untrustfriends fieldset li {
+	list-style-type: none;
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-color: #d4d4d4;
+	font-size: 12pt;
+	padding-right: 0;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 0;
+	
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+}
+
+#untrustfriends fieldset li:hover {
+	background: rgba(51, 51, 51, 0.1);
+}
+
+#deactivate fieldset li {
+	list-style-type: none;
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-color: #d4d4d4;
+	font-size: 12pt;
+	padding-right: 0;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 0;
+	
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+}
+
+#deactivate fieldset li:hover {
+	background: rgba(51, 51, 51, 0.1);
+}
+
+
+.other li p {
+	margin: 6px;
+	height: 14px;
+}
+
+p.pt-8 {
+	font-size: 14pt;
+}
+
+p.pt-20 {
+	font-size: 12pt;
+	color: #616161;
+}
+
+#reason h3 {
+	font-weight: normal;
+	font-size: 15pt;
+	color: #C1272D;
+	border-style: solid;
+	border-color: #575657;
+	border-bottom-width: 2px;
+}
+
+#helpboxa {
+	background-color: #FFF9D7;
+	font-weight: normal;
+	font-size: 10pt;
+	border-style: solid;
+	border-color: #ffe659;
+	border-width: 1px;
+	padding: 5px;
+}
+
+#helpboxb {
+	background-color: #FFF9D7;
+	font-weight: normal;
+	font-size: 10pt;
+	border-style: solid;
+	border-color: #ffe659;
+	border-width: 1px;
+	padding: 5px;
+}
+
+#helpboxc {
+	background-color: #FFF9D7;
+	font-weight: normal;
+	font-size: 10pt;
+	border-style: solid;
+	border-color: #ffe659;
+	border-width: 1px;
+	padding: 5px;
+}
+
+#helpboxd {
+	background-color: #FFF9D7;
+	font-weight: normal;
+	font-size: 10pt;
+	border-style: solid;
+	border-color: #ffe659;
+	border-width: 1px;
+	padding: 5px;
+}
+
+#helpboxe {
+	background-color: #FFF9D7;
+	font-weight: normal;
+	font-size: 10pt;
+	border-style: solid;
+	border-color: #ffe659;
+	border-width: 1px;
+	padding: 5px;
+}
+
+#helpboxf {
+	background-color: #FFF9D7;
+	font-weight: normal;
+	font-size: 10pt;
+	border-style: solid;
+	border-color: #ffe659;
+	border-width: 1px;
+	padding: 5px;
+}
+
+#helpboxg {
+	background-color: #FFF9D7;
+	font-weight: normal;
+	font-size: 10pt;
+	border-style: solid;
+	border-color: #ffe659;
+	border-width: 1px;
+	padding: 5px;
+}
+
+#helpboxh {
+	background-color: #FFF9D7;
+	font-weight: normal;
+	font-size: 10pt;
+	border-style: solid;
+	border-color: #ffe659;
+	border-width: 1px;
+	padding: 5px;
+}
+
+
+#helpboxa a {
+	color: #223994;
+}
+
+#helpboxb a {
+	color: #223994;
+}
+
+#helpboxc a {
+	color: #223994;
+}
+
+#helpboxd a {
+	color: #223994;
+}
+
+#helpboxe a {
+	color: #223994;
+}
+
+#helpboxf a {
+	color: #223994;
+}
+
+#helpboxg a {
+	color: #223994;
+}
+
+#helpboxh a {
+	color: #223994;
+}
+
+li.step-3 {
+	background-color: #C0311A;
+}
+
+li.step-1 {
+	background-color: #C0311A;
+}
+
+li.step-2 {
+	background-color: #C0311A;
+}
+
+li.step-3 h3 a {
+	color: #ffffff;
+}
+
+li.step-2 h3 a {
+	color: #FFF;
+}
+
+li.step-1 h3 a {
+	color: #FFF;
+}
+
+div.section div h4 {
+	font-size: 12pt;
+	font-weight: normal;
+}
+
+#remove {
+	margin-top: 7px;
+	margin-bottom: 12px;
+}
+
+#devhead{
+	width: 730px;
+	height: 234px;
+	background-image: url("conndevhead-01.png");
+}
+
+#surebody input {
+	border: 1px solid #7d7d7d;
+	background: #bfbfbf;
+	background: -webkit-gradient(linear, left top, left bottom, from(#FEFEFE), to(#E6E6E6));
+	background: -moz-linear-gradient(top, #FEFEFE, #E6E6E6);
+	padding: 5.5px 11px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	-webkit-box-shadow: rgba(204, 204, 204, 1) 0 1px 0;
+	-moz-box-shadow: rgba(204, 204, 204, 1) 0 1px 0;
+	box-shadow: rgba(204, 204, 204, 1) 0 1px 0;
+	color: #2e2e2e;
+	font-family: 'AvenirLTStd85Heavy';
+	font-weight: normal;
+	font-size: 15px;
+	text-decoration: none;
+	vertical-align: middle;
+}
+
+#surebody input:hover {
+	-moz-box-shadow: 0px 0px 3px #000;  
+	-webkit-box-shadow: 0px 0px 3px #000;
+	box-shadow: 0px 0px 3px #000;
+}

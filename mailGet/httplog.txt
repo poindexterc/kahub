@@ -1,0 +1,275 @@
+Array
+(
+    [headers] => Received: by 127.0.0.1 with SMTP id 9pgIy0uxqu Tue, 06 Sep 2011 16:02:58 -0500 (CDT)
+Received: from spammy3.fandm.edu (spammy3.fandm.edu [155.68.1.26]) by mx3.sendgrid.net (Postfix) with ESMTP id CA1F314F30F7 for <create@post.kahub.com>; Tue,  6 Sep 2011 16:02:58 -0500 (CDT)
+X-ASG-Debug-ID: 1315342978-0313f242cb11c4a0001-JFdCGX
+Received: from zimfe1.fandm.edu (smtp.fandm.edu [155.68.130.29]) by spammy3.fandm.edu with ESMTP id DRW2w03ft58tLDvF for <create@post.kahub.com>; Tue, 06 Sep 2011 17:02:58 -0400 (EDT)
+X-Barracuda-Envelope-From: colin.poindexter@fandm.edu
+X-Barracuda-Apparent-Source-IP: 155.68.130.29
+Received: from [10.31.249.185] (mobile-166-137-141-031.mycingular.net [166.137.141.31]) by zimfe1.fandm.edu (Postfix) with ESMTPSA id 276ACD20037 for <create@post.kahub.com>; Tue,  6 Sep 2011 17:02:58 -0400 (EDT)
+Subject: Obama 
+From: Colin Poindexter <colin.poindexter@fandm.edu>
+X-ASG-Orig-Subj: Obama 
+Content-Type: text/plain; charset=us-ascii
+X-Mailer: iPhone Mail (8L1)
+Message-Id: <D63B8090-9EEE-4CB9-A1DE-0148A849614D@fandm.edu>
+Date: Tue, 6 Sep 2011 17:02:55 -0400
+To: create@post.kahub.com
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (iPhone Mail 8L1)
+X-Barracuda-Connect: smtp.fandm.edu[155.68.130.29]
+X-Barracuda-Start-Time: 1315342978
+X-Barracuda-URL: http://155.68.1.26:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at fandm.edu
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=6.0 KILL_LEVEL=7.1 tests=
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.73845 Rule breakdown below pts rule name              description ---- ---------------------- --------------------------------------------------
+
+    [attachments] => 0
+    [dkim] => none
+    [subject] => Obama 
+    [to] => create@post.kahub.com
+    [from] => Colin Poindexter <colin.poindexter@fandm.edu>
+    [text] => 
+Rewr
+-- 
+Colin Poindexter
+
+Sent from my iPhone
+
+"Better to be a pirate than join the navy"
+
+    [envelope] => {"to":["create@post.kahub.com"],"from":"colin.poindexter@fandm.edu"}
+    [charsets] => {"to":"UTF-8","subject":"UTF-8","from":"UTF-8","text":"us-ascii"}
+    [SPF] => pass
+)
+Array
+(
+)
+Array
+(
+    [headers] => Received: by 127.0.0.1 with SMTP id kyv44QnPWJ Tue, 06 Sep 2011 16:32:31 -0500 (CDT)
+Received: from mail-gy0-f170.google.com (mail-gy0-f170.google.com [209.85.160.170]) by mx3.sendgrid.net (Postfix) with ESMTPS id 0C17A14F37E4 for <create@post.kahub.com>; Tue,  6 Sep 2011 16:32:31 -0500 (CDT)
+Received: by gyd5 with SMTP id 5so3922567gyd.15 for <create@post.kahub.com>; Tue, 06 Sep 2011 14:32:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma; h=subject:from:content-type:message-id:date:to :content-transfer-encoding:mime-version:x-mailer; bh=vKAub9Wc8+Daa5J3Dx32AKR8Ael6iQt5PyuM0lQXHqE=; b=m1mKt3HpBa+2lmqAuSKmUW6U0MFeqTzjzolXNBRJc8Nn8cwASq5+poXIvvyj4ozbLT vq7OF3o+QpLnh0JuvPM+9xt6gufKgJhZtngmDMZOBAAv414hyns+HP7wEhudSD1mwm8b 4eIiZ82KyTcB4Aq5qlvmgR0UpA4/sCcY+gklU=
+Received: by 10.150.48.14 with SMTP id v14mr4453126ybv.165.1315344749934; Tue, 06 Sep 2011 14:32:29 -0700 (PDT)
+Received: from [10.31.249.185] (mobile-166-137-141-031.mycingular.net [166.137.141.31]) by mx.google.com with ESMTPS id f5sm195948ybf.16.2011.09.06.14.32.06 (version=TLSv1/SSLv3 cipher=OTHER); Tue, 06 Sep 2011 14:32:27 -0700 (PDT)
+Subject: Crazy 
+From: Colin Poindexter <poindexterc@gmail.com>
+Content-Type: multipart/mixed; boundary=Apple-Mail-1--117415409
+Message-Id: <61976D21-D889-4AE1-9E99-FB85E3083E2D@gmail.com>
+Date: Tue, 6 Sep 2011 17:31:57 -0400
+To: create@post.kahub.com
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (iPhone Mail 8L1)
+X-Mailer: iPhone Mail (8L1)
+
+    [attachments] => 2
+    [dkim] => {@gmail.com : fail (body has been altered)}
+    [subject] => Crazy 
+    [to] => create@post.kahub.com
+    [attachment-info] => {"attachment2":{"charset":"us-ascii","type":"text/plain"},"attachment1":{"filename":"photo.JPG","name":"photo.JPG","type":"image/jpeg"}}
+    [from] => Colin Poindexter <poindexterc@gmail.com>
+    [text] => A crazy man
+
+
+    [envelope] => {"to":["create@post.kahub.com"],"from":"poindexterc@gmail.com"}
+    [charsets] => {"to":"UTF-8","subject":"UTF-8","from":"UTF-8","text":"us-ascii"}
+    [SPF] => pass
+)
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => msg-8647-26.txt
+            [type] => text/plain
+            [tmp_name] => /tmp/phpnN8Ycf
+            [error] => 0
+            [size] => 96
+        )
+
+    [attachment1] => Array
+        (
+            [name] => photo-22.JPG
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpPUKvUc
+            [error] => 0
+            [size] => 100168
+        )
+
+)
+Array
+(
+    [headers] => Received: by 127.0.0.1 with SMTP id VWsdp4zQLX Tue, 06 Sep 2011 18:10:23 -0500 (CDT)
+Received: from spammy3.fandm.edu (spammy3.fandm.edu [155.68.1.26]) by mx3.sendgrid.net (Postfix) with ESMTP id 300E514F3989 for <create@post.kahub.com>; Tue,  6 Sep 2011 18:10:23 -0500 (CDT)
+X-ASG-Debug-ID: 1315350622-0313f242cb11f140001-JFdCGX
+Received: from zimfe1.fandm.edu (smtp.fandm.edu [155.68.130.29]) by spammy3.fandm.edu with ESMTP id JtJoyyGx4D2RjhRA for <create@post.kahub.com>; Tue, 06 Sep 2011 19:10:22 -0400 (EDT)
+X-Barracuda-Envelope-From: colin.poindexter@fandm.edu
+X-Barracuda-Apparent-Source-IP: 155.68.130.29
+Received: from [10.31.249.185] (mobile-166-137-141-031.mycingular.net [166.137.141.31]) by zimfe1.fandm.edu (Postfix) with ESMTPSA id 6EF89D213C0 for <create@post.kahub.com>; Tue,  6 Sep 2011 19:10:22 -0400 (EDT)
+Subject: Hey test 
+From: Colin Poindexter <colin.poindexter@fandm.edu>
+X-ASG-Orig-Subj: Hey test 
+Content-Type: text/plain; charset=us-ascii
+X-Mailer: iPhone Mail (8L1)
+Message-Id: <61BF1BD3-991D-48F6-A7F7-235810210580@fandm.edu>
+Date: Tue, 6 Sep 2011 19:10:17 -0400
+To: create@post.kahub.com
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (iPhone Mail 8L1)
+X-Barracuda-Connect: smtp.fandm.edu[155.68.130.29]
+X-Barracuda-Start-Time: 1315350622
+X-Barracuda-URL: http://155.68.1.26:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at fandm.edu
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=6.0 KILL_LEVEL=7.1 tests=
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.73853 Rule breakdown below pts rule name              description ---- ---------------------- --------------------------------------------------
+
+    [attachments] => 0
+    [dkim] => none
+    [subject] => Hey test 
+    [to] => create@post.kahub.com
+    [from] => Colin Poindexter <colin.poindexter@fandm.edu>
+    [text] => 
+This is a test! Yay!
+-- 
+Colin Poindexter
+
+Sent from my iPhone
+
+"Better to be a pirate than join the navy"
+
+    [envelope] => {"to":["create@post.kahub.com"],"from":"colin.poindexter@fandm.edu"}
+    [charsets] => {"to":"UTF-8","subject":"UTF-8","from":"UTF-8","text":"us-ascii"}
+    [SPF] => pass
+)
+Array
+(
+)
+Array
+(
+    [headers] => Received: by 127.0.0.1 with SMTP id giOZfhvGza Tue, 06 Sep 2011 19:24:15 -0500 (CDT)
+Received: from schemailmta03.cingularme.com (schemailmta03.cingularme.com [209.183.37.55]) by mx2.sendgrid.net (Postfix) with ESMTP id 3D26917934B2 for <create@post.kahub.com>; Tue,  6 Sep 2011 19:24:15 -0500 (CDT)
+X-Mms-MMS-Version: 1.2
+Date: Tue, 6 Sep 2011 19:24:14 -0500 (CDT)
+Content-Type: multipart/mixed;  boundary="----=_Part_35424431_229944737.1315355054757"
+Received: from alnnms02 ([172.16.130.170]) by schemailmta03.cingularme.com (InterMail vM.6.01.04.00 201-2131-118-20041027) with ESMTP id <20110907002414.TFFQ10485.schemailmta03.cingularme.com@alnnms02> for <create@post.kahub.com>; Tue, 6 Sep 2011 19:24:14 -0500
+From: <6108888005@mms.att.net>
+To: create@post.kahub.com
+MIME-Version: 1.0
+X-Mms-Transaction-Id: 1315355034-0
+Message-ID: <1103692200.518554771315355054758.JavaMail.nems@alnnms02>
+X-Mms-Message-Type: m-send-req
+
+    [attachments] => 0
+    [dkim] => none
+    [subject] => 
+    [to] => create@post.kahub.com
+    [from] => <6108888005@mms.att.net>
+    [text] => Test 
+    [envelope] => {"to":["create@post.kahub.com"],"from":"6108888005@mms.att.net"}
+    [charsets] => {"to":"UTF-8","subject":"UTF-8","from":"UTF-8","text":"UTF-8"}
+    [SPF] => pass
+)
+Array
+(
+)
+Array
+(
+    [headers] => Received: by 127.0.0.1 with SMTP id EWfilHErZn Thu, 08 Sep 2011 16:24:30 -0500 (CDT)
+Received: from spammy3.fandm.edu (spammy3.fandm.edu [155.68.1.26]) by mx3.sendgrid.net (Postfix) with ESMTP id BA557177A9E5 for <create@post.kahub.com>; Thu,  8 Sep 2011 16:24:30 -0500 (CDT)
+X-ASG-Debug-ID: 1315517069-0313f242cb151420001-JFdCGX
+Received: from zimfe2.fandm.edu (smtp.fandm.edu [155.68.130.30]) by spammy3.fandm.edu with ESMTP id 3FhETh3dSCAbAAj0 for <create@post.kahub.com>; Thu, 08 Sep 2011 17:24:29 -0400 (EDT)
+X-Barracuda-Envelope-From: colin.poindexter@fandm.edu
+X-Barracuda-Apparent-Source-IP: 155.68.130.30
+Received: from colin-poindexters-macbook-pro.local (dhcp-155-68-113-130.fandm.edu [155.68.113.130]) by zimfe2.fandm.edu (Postfix) with ESMTPSA id 143CF1168491 for <create@post.kahub.com>; Thu,  8 Sep 2011 17:24:29 -0400 (EDT)
+Date: Thu, 8 Sep 2011 17:24:28 -0400
+From: Colin Poindexter <colin.poindexter@fandm.edu>
+To: create@post.kahub.com
+Message-ID: <DE807D9527044AD8BABAD3CBD6D4AEA3@fandm.edu>
+Subject: test
+X-Mailer: sparrow 1.3.2 (build 814.60)
+X-ASG-Orig-Subj: test
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="4e69328c_50801ee1_a7"
+X-Barracuda-Connect: smtp.fandm.edu[155.68.130.30]
+X-Barracuda-Start-Time: 1315517069
+X-Barracuda-URL: http://155.68.1.26:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at fandm.edu
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=6.0 KILL_LEVEL=7.1 tests=HS_INDEX_PARAM, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.73963 Rule breakdown below pts rule name              description ---- ---------------------- -------------------------------------------------- 0.00 HS_INDEX_PARAM         URI: Link contains a common tracker pattern. 0.00 HTML_MESSAGE           BODY: HTML included in message
+
+    [attachments] => 0
+    [dkim] => none
+    [subject] => test
+    [to] => create@post.kahub.com
+    [html] => 
+                <div>
+                    <b>this </b><i>is a test</i></div>
+                <div><br>--&nbsp;<br>Colin Poindexter<br>Sent with <a href="http://www.sparrowmailapp.com/?sig">Sparrow</a><br></div>
+            
+    [from] => Colin Poindexter <colin.poindexter@fandm.edu>
+    [text] => this is a test
+
+-- 
+Colin Poindexter
+Sent with Sparrow (http://www.sparrowmailapp.com/?sig)
+
+    [envelope] => {"to":["create@post.kahub.com"],"from":"colin.poindexter@fandm.edu"}
+    [charsets] => {"to":"UTF-8","html":"utf-8","subject":"UTF-8","from":"UTF-8","text":"utf-8"}
+    [SPF] => pass
+)
+Array
+(
+)
+ ola 
+
+__________________________
+-Colin Poindexter
+
+Array
+(
+)
+whats upArray
+(
+)
+yoArray
+(
+    [attachment1] => Array
+        (
+            [name] => 368319419_GGS2A-L.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpO72KB2
+            [error] => 0
+            [size] => 40478
+        )
+
+)
+{Array
+(
+)
+{"to":["create@post.kahub.com"],"from":"colinpoindexter@shortmail.com"}Array
+(
+)
+{Array
+(
+)
+Array
+(
+    [to] => Array
+        (
+            [0] => create@post.kahub.com
+        )
+
+    [from] => colinpoindexter@shortmail.com
+)
+Array
+(
+)
+Array
+(
+)
+colinpoindexter@shortmail.comArray
+(
+)

@@ -1,0 +1,226 @@
+[23-May-2011 02:33:41] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/admin5/public_html/parseRSS/bbRSS.php on line 16
+[23-May-2011 17:00:01] PHP Fatal error:  Cannot redeclare HelpingDBMethods::storyInDB() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1368
+[23-May-2011 17:00:01] PHP Fatal error:  Cannot redeclare HelpingDBMethods::storyInDB() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1368
+[23-May-2011 17:00:01] PHP Fatal error:  Cannot redeclare HelpingDBMethods::storyInDB() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1368
+[23-May-2011 17:00:01] PHP Fatal error:  Cannot redeclare HelpingDBMethods::storyInDB() in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 1368
+[24-May-2011 18:01:48] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/URLKeyWordExtraction/class.multi-auto-keyword.php on line 507
+[24-May-2011 18:05:30] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/URLKeyWordExtraction/URLKeyWordExtraction.php on line 189
+[24-May-2011 18:10:17] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/URLKeyWordExtraction/URLKeyWordExtraction.php on line 189
+[24-May-2011 18:40:42] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/admin5/public_html/parseRSS/cnnRSS.php on line 21
+[24-May-2011 18:46:13] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/URLKeyWordExtraction/URLKeyWordExtraction.php on line 189
+[28-May-2011 01:00:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[28-May-2011 01:00:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[28-May-2011 01:00:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[28-May-2011 01:00:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/admin5/public_html/AppCode/ApplicationSettings.php on line 31
+[12-Jun-2011 17:01:57] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/dailyMailRSS.php on line 18
+[12-Jun-2011 17:01:57] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://www.dailymail.co.uk/sciencetech/article-2002772/Internet-suitcase-U-S-government-researching-ways-dissidents-censorship-home-countries-Tweets-flowing.html?ITO=1490) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/dailyMailRSS.php on line 18
+[15-Jun-2011 16:02:26] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/URLKeyWordExtraction/URLKeyWordExtraction.php on line 189
+[23-Jun-2011 18:02:26] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/smokingGunRSS.php on line 18
+[23-Jun-2011 18:02:26] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://www.thesmokinggun.com/documents/funny/facebook-spy-vs-spy-case-126493) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/smokingGunRSS.php on line 18
+[01-Jul-2011 17:00:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/AppCode/URLKeyWordExtraction/URLKeyWordExtraction.php on line 189
+[01-Jul-2011 22:01:26] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/nymagRSS.php on line 18
+[01-Jul-2011 22:01:26] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/cnnEntRSS.php on line 18
+[01-Jul-2011 22:01:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/usaTopStoriesRSS.php on line 18
+[01-Jul-2011 22:01:50] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/smokingGunRSS.php on line 18
+[01-Jul-2011 22:02:20] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/cnnRSS.php on line 18
+[01-Jul-2011 22:02:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/wiredRSS.php on line 18
+[02-Jul-2011 00:00:57] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/usaTopStoriesRSS.php on line 18
+[02-Jul-2011 00:01:07] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/dailyMailRSS.php on line 18
+[02-Jul-2011 00:01:12] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/nymagRSS.php on line 18
+[02-Jul-2011 00:01:26] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/smokingGunRSS.php on line 18
+[02-Jul-2011 00:01:42] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/admin5/public_html/parseRSS/dailyBeastRSS.php on line 18
+[19-Jul-2011 03:01:29] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/cnnRSS.php on line 18
+[19-Jul-2011 03:01:29] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://www.cnn.com/2011/POLITICS/07/18/debt.limit.fallback.plan/index.html?eref=rss_mostpopular) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/cnnRSS.php on line 18
+[19-Jul-2011 03:02:04] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/usaTopStoriesRSS.php on line 18
+[19-Jul-2011 03:02:04] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://www.usatoday.com/news/religion/2011-07-18-portable-churches-worship-schools_n.htm?csp=34news) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/usaTopStoriesRSS.php on line 18
+[19-Jul-2011 03:02:18] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/nymagRSS.php on line 18
+[19-Jul-2011 03:02:18] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://nymag.com/daily/intel/2011/07/president_obama_fails_to_elici.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/nymagRSS.php on line 18
+[19-Jul-2011 03:09:03] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/dailyMailRSS.php on line 18
+[19-Jul-2011 03:09:03] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://www.dailymail.co.uk/news/article-2016232/How-passive-smoking-harm-hearing-Tests-takes-toll-teens.html?ITO=1490) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/dailyMailRSS.php on line 18
+[19-Jul-2011 06:01:12] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/usaTopStoriesRSS.php on line 18
+[19-Jul-2011 06:01:13] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://www.usatoday.com/news/military/2011-07-18-army-device-measures-brain-injuries_n.htm?csp=34news) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/usaTopStoriesRSS.php on line 18
+[19-Jul-2011 06:01:46] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/usaTopStoriesRSS.php on line 18
+[19-Jul-2011 06:01:46] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://www.usatoday.com/news/washington/2011-07-18-debt-limit-negotiations-deadline-Obama-Congress_n.htm?csp=34news) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/usaTopStoriesRSS.php on line 18
+[19-Jul-2011 06:02:39] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/wiredRSS.php on line 18
+[19-Jul-2011 06:02:39] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://www.wired.com/underwire/2011/07/captain-america-propoganda-posters/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/wiredRSS.php on line 18
+[19-Jul-2011 06:03:20] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/nymagRSS.php on line 18
+[19-Jul-2011 06:03:20] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://nymag.com/daily/intel/2011/07/the_roof_is_falling_in_on_fede.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/nymagRSS.php on line 18
+[19-Jul-2011 06:13:27] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Couldn't resolve host name in /home/admin5/public_html/parseRSS/dailyMailRSS.php on line 18
+[19-Jul-2011 06:13:27] PHP Warning:  file_get_contents(http://www.connichiwah.com/anyShare/read.php?rURL=http://www.dailymail.co.uk/news/article-2016029/I-robbed-beaten-mocked-I-white-Man-viciously-attacked-New-York-subway.html?ITO=1490) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/admin5/public_html/parseRSS/dailyMailRSS.php on line 18
+[22-Jul-2011 23:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[22-Jul-2011 23:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 00:00:18] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 01:00:15] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 02:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 02:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 03:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 03:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 04:00:12] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 04:00:12] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 04:00:13] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 05:00:12] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 05:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 05:00:15] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 06:00:18] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 06:00:18] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 06:00:22] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 07:00:23] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 07:00:23] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 07:00:28] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 08:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 08:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 08:00:09] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 09:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 09:00:07] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 09:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 10:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 10:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 10:00:07] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 11:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 11:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 11:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 11:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 11:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 11:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 12:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 12:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 12:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 12:00:07] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 12:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 12:00:09] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 12:00:19] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 13:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 13:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 13:00:09] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 13:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 13:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 14:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 14:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 14:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 14:00:09] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 14:00:09] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 15:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 15:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 15:00:07] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 15:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 15:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 15:00:13] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 16:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 16:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 16:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 16:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 16:00:09] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 16:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 17:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 17:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 17:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 17:00:09] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 17:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 18:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 18:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 18:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 18:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 18:00:19] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 19:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 19:00:07] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 19:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 19:00:13] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 19:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 19:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 19:00:16] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 20:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 20:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 20:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 20:00:07] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 20:00:09] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 20:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 20:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 21:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 21:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 21:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 21:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 21:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 22:00:02] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 22:00:02] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 22:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 22:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 22:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 23:00:02] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 23:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 23:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 23:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[23-Jul-2011 23:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 00:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 00:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 00:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 00:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 00:00:16] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 00:00:20] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 01:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 01:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 01:00:12] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 01:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 01:00:18] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 02:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 02:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 02:00:12] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 02:00:13] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 02:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 03:00:02] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 03:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 03:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 03:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 03:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 04:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 04:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 04:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 04:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 05:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 05:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 05:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 05:00:12] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 06:00:12] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 06:00:12] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 06:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 06:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 06:00:20] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 07:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 07:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 07:00:09] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 07:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 07:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 08:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 08:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 08:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 08:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 08:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 09:00:02] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 09:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 09:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 09:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 09:00:09] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 10:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 10:00:05] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 10:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 10:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 10:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 10:00:08] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 11:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 11:00:12] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 11:00:13] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 11:00:14] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 11:00:16] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 11:00:17] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 12:00:02] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 12:00:03] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 12:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 12:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 12:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 12:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 12:00:11] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 13:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 13:00:04] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 13:00:06] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 13:00:07] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 13:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390
+[24-Jul-2011 13:00:10] PHP Fatal error:  Class 'HelpingDBMethds' not found in /home/admin5/public_html/AppCode/HelpingDBMethods.php on line 390

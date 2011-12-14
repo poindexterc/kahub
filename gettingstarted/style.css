@@ -1,0 +1,219 @@
+.droparea {
+    position:relative;
+    text-align: center;
+}
+.droparea div {
+    position: absolute;
+    top:0;
+    width: 100%;
+    height: 100%;
+}
+.droparea .instructions {
+
+}
+.droparea .instructions.over {
+    background: #ffa;
+}
+.droparea .progress {
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    height: 0;
+    color: #fff;
+    background: #6b0;
+}
+#areas { width: 480px; }
+.spot {
+    width: 200px;
+    height: 200px;
+    background-image: url("dragphoto.png");
+}
+.thumb {
+    float: left;
+    margin:20px 20px 0 0;
+    width: 140px;
+    min-height: 105px;
+}
+.desc {
+    float:right;
+    width: 460px;
+}
+.signature a { color:#555; text-decoration:none; }
+.signature img { margin-right:5px; vertical-align: middle; }
+a.promoBtn:hover {
+    cursor: pointer;
+}
+
+div.droparea.spot div {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+div.droparea.spot img {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+  html {
+    background-color: #F3F3F3;
+}
+
+#card {
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #d6d6d6;
+    border-width: 1px;
+    padding: 10px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+div.droparea.spot {
+    margin-left: 144px;
+}
+
+div.instruction {
+    font-family: 'Droid Sans';
+    text-align: center;
+    margin-bottom: 13px;
+}
+
+span.instructText {
+    background-color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+    font-size: 19px;
+    color: #696969;
+}
+
+#moreinfobox{
+	;
+}
+  input{
+height: 38px;
+top: 0;
+-moz-border-radius: 5px; 
+-webkit-border-radius: 5px;
+-webkit-box-shadow: inset 1px 1px 3px #B3B3B3;
+-moz-box-shadow: inset 1px 1px 3px #B3B3B3;
+box-shadow: inset 1px 1px 3px #B3B3B3;
+border: 1px solid #F2F2F2;
+width: 428px;
+font-size: 17pt;
+padding-left: 10px;
+background: #fff;
+font-family: 'Droid Sans', arial, serif;
+
+}
+
+.uploaded{
+	background: url("images-1.jpeg");
+}
+
+input:focus{
+-webkit-box-shadow: 0px 0px 8px rgba(82,168,236,0.5);
+-moz-box-shadow: 0px 0px 8px rgba(82,168,236,0.5);
+box-shadow: 0px 0px 8px rgba(82,168,236,0.5);
+border: 1px solid rgba(82,168,236,0.75);
+outline: 0;
+}
+label{
+padding: 5px;
+padding-top: 10px;
+padding-left: 10px;
+color: #4D4D4D;
+font-size: 14pt;
+font-family: 'Droid Sans', arial, serif;
+
+}
+div.instruction.moreinfo {
+    margin-top: 23px;
+}
+
+div.moreinfo li {
+    padding-left: 27px;
+}
+
+div.instruction {
+    background-color: #e8e8e8;
+}
+@-webkit-keyframes orangePulse {
+from { background-color: #F45100; -webkit-box-shadow: 0 0 7px #ff9514; }
+50% { background-color: #ff5c00; -webkit-box-shadow: 0 0 15px #ff5c00; }
+to { background-color: #F45100; -webkit-box-shadow: 0 0 7px #ff9514; }
+}
+
+@-moz-keyframes orangePulse {
+from { background-color: #ff5c00; -webkit-box-shadow: 0 0 7px #ff9514; }
+50% { background-color: #ff5c00; -webkit-box-shadow: 0 0 15px #ff5c00; }
+to { background-color: #ff5c00; -webkit-box-shadow: 0 0 7px #ff9514; }
+}
+
+
+a.button {
+  -webkit-animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite; 
+  color: #fff;
+  background-color: #ff5c00;
+  font: normal normal bold 20px Helvetica, Arial, sans-serif;
+  padding: 8px 13px 9px; float: left; 
+  margin-top: 10px;
+  -moz-border-radius: 5px; 
+  -webkit-border-radius: 5px;
+  -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+  text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+  border-bottom: 1px solid rgba(0,0,0,0.25);
+  cursor: pointer;
+}
+a.skip {
+    color: #405882;
+    text-decoration: none;
+    margin-left: 210px;
+}
+
+a.skip:hover {
+    text-decoration: underline;
+}
+
+a.large.orange.button {
+    width: 412px;
+    text-align: center;
+    height: 24px;
+}
+
+#card {
+    padding-bottom: 64px;
+}
+
+div.droparea.spot {
+    margin-bottom: 8px;
+}
+
+div.legal {
+    margin-top: 62px;
+    text-align: center;
+    width: 438px;
+}
+#card { display:none; }
+input.undefined {
+    background: transparent;
+}
+
+div.pstrength-bar {
+    margin-left: 4px;
+    padding-bottom: 29px;
+    margin-top: -38px;
+}
+
+div.pstrength-info {
+    margin-top: 9px;
+}
+
+a.skip:hover {
+    cursor: pointer;
+}
+
