@@ -51,7 +51,7 @@ class MyMailingMethods
 	
 	function SendNotificationMail($NType, $data)
 	{
-		$headers =  'From: kahub <notifications@kahub.com>' . "\r<br>";
+		$headers =  'From: FROM' . "\r<br>";
 		$status = false;
 		if($NType == 1)
 		{
@@ -120,8 +120,8 @@ Body;
 		 */
 
 		// Your SendGrid account credentials
-		    $username = 'kahub';
-		    $password = 'm2917712';
+		    $username = 'USER';
+		    $password = 'PASS';
 
 		// Create new swift connection and authenticate
 		    $transport = Swift_SmtpTransport::newInstance('smtp.sendgrid.net', 25);
@@ -205,7 +205,7 @@ Body;
 		// The subject of your email  
 
 		// Where is this message coming from.  For example, this message can be from support@yourcompany.com, info@yourcompany.com
-		$from = array('notifications@kahub.com' => 'kahub');
+		$from = array('FROM' => 'kahub');
 
 		// If you do not specify a sender list above, you can specifiy the user here.  If a sender list IS specified above
 		// This email address becomes irrelevant.
@@ -222,8 +222,8 @@ Body;
 		 */
 
 		// Your SendGrid account credentials
-		$username = 'kahub';
-		$password = 'm2917712';
+		$username = 'USER';
+		$password = 'PASS';
 
 		// Create new swift connection and authenticate
 		$transport = Swift_SmtpTransport::newInstance('smtp.sendgrid.net', 25);
@@ -305,7 +305,7 @@ Body;
 		// The subject of your email  
 
 		// Where is this message coming from.  For example, this message can be from support@yourcompany.com, info@yourcompany.com
-		$from = array('notifications@kahub.com' => 'kahub');
+		$from = array('FROM NAME' => 'kahub');
 
 		// If you do not specify a sender list above, you can specifiy the user here.  If a sender list IS specified above
 		// This email address becomes irrelevant.
@@ -322,8 +322,8 @@ Body;
 		 */
 
 		// Your SendGrid account credentials
-		$username = 'kahub';
-		$password = 'm2917712';
+		$username = 'user';
+		$password = 'pass';
 
 		// Create new swift connection and authenticate
 		$transport = Swift_SmtpTransport::newInstance('smtp.sendgrid.net', 25);
