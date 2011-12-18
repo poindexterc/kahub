@@ -9,10 +9,10 @@ $hdr = new SmtpApiHeader();
  
 // The list of addresses this message will be sent to
 // [This list is used for sending multiple emails using just ONE request to SendGrid]
-$toList = array('poindexterc@gmail.com');
+$toList = array('TO_LIST');
  
 // Specify the names of the recipients
-$nameList = array('Colin Poindexter');
+$nameList = array('NAME');
  
 // Used as an example of variable substitution
  
@@ -31,11 +31,11 @@ $hdr->addFilterSetting('footer', "text/plain", "Thank you for your business");
 $subject = 'Example SendGrid Email';
  
 // Where is this message coming from.  For example, this message can be from support@yourcompany.com, info@yourcompany.com
-$from = array('startsharing@kahub.com' => 'kahub');
+$from = array('FROM' => 'FROM_NAME');
  
 // If you do not specify a sender list above, you can specifiy the user here.  If a sender list IS specified above
 // This email address becomes irrelevant.
-$to = array('poindexterc@gmail.com'=>'Colin Poindexter');
+$to = array('TO_EMAIL'=>'TO_NAME');
  
 # Create the body of the message (a plain-text and an HTML version).
 # text is your plain-text email
@@ -73,8 +73,8 @@ $html = <<<EOM
 EOM;
  
 // Your SendGrid account credentials
-$username = 'kahub';
-$password = 'm2917712';
+$username = 'USERNAME';
+$password = 'PASS';
  
 // Create new swift connection and authenticate
 $transport = Swift_SmtpTransport::newInstance('smtp.sendgrid.net', 25);
